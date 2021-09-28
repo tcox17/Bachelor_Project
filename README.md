@@ -7,6 +7,7 @@
 
 **Introduction to Problem or Opportunity** <br /> 
 The Bachelor Franchise is one of the largest TV franchises across the globe with over 5 million viewers every week. This has created a community of those who watch the Bachelor, Bachelorette, and Bachelor in Paradise who enjoy exploring the data surrounding people on the show, their growing popularity, and applying predictive analytics to foresee the winners of each season and how the public will react. So, what exactly impacts the winner of a custom engagement ring, $250,000, and popularity among pop culture. To win the above rewards, you must go through 10 weeks of dating the Bachelor/Bachelorette, receive a rose each week to continue the relationship, and receive one ‘Final Rose’ from the lead. 
+
 **Research Question(s)** <br /> 
 Can we predict the likelihood of a given contestant receiving the season’s final rose based on their amount of time spent with the lead calculated by a weighted point system based on the number of dates attended and the number of contestants on each date?
 
