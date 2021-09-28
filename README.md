@@ -11,6 +11,7 @@ The Bachelor Franchise is one of the largest TV franchises across the globe with
 Can we predict the likelihood of a given contestant receiving the season’s final rose based on their amount of time spent with the lead calculated by a weighted point system based on the number of dates attended and the number of contestants on each date?
 
 What is the relationship between the number of weeks a contestant spends on the show and the age difference between the contestant and the lead?
+
 **Data Resources** <br /> 
 We have obtained datasets from FiveThirtyEight and Kaggle containing contestant information from past seasons of "The Bachelor" and "The Bachelorette". The FiveThirtyEight dataset contains contestant names, weekly elimination/rose data, and weekly date data for seasons 1-13 of "The Bachelorette" and seasons 1-21 of "The Bachelor". The Kaggle dataset contains contestant names, ages, hometowns & weeks of elimination for seasons 1-12 of "The Bachelorette" and seasons 1, 2, 5 & 9-21 of "The Bachelor". The Kaggle dataset also contains the name, age & hometown of show leads for those same seasons. We may also compile further data from more recent seasons to utilize as test data for our models. <br />
 FiveThirtyEight Data: https://github.com/fivethirtyeight/data/tree/master/bachelorette <br />
