@@ -3,7 +3,7 @@
 1. Taylor Cox <br /> 
 2. Connor Derrick
 
-**Team Name** : Team CT Scan
+**Team Name** : Team Final Rose
 
 **Introduction to Problem or Opportunity** <br /> 
 
