@@ -26,6 +26,26 @@ For our logistic regression to predict the winner of a given season, we decided 
 
 **Data Understanding and Exploration** <br /> 
 
+All datasets use the same explanatory variables to predict the likeliness of a certain contestant being a winner. The variables in our datasets can be seen in the dictionary below.
+
+*Name* - The name column refers to the Contestant Name
+*Age* - Age refers to the age of the contestant
+*Occupation* - Occupation is what the individual contestant's report as their occupations when they join the show
+*City* - Hometown city for contestants
+*State* - Hometown state for contestants
+*Region* - Hometown region based on the US Census Bureau
+*Elim Week* - The week of elimination for each contestant. If the value is null, that contestant won
+*Season ID* - The combination of the name of the show (either Bachelor or Bachelorette) and season number
+*Lead Name* - Name of the Bachelor/Bachelorette
+*Lead Age* - Bachelor/Bachelorette age at the time of filming
+*Lead Occupation* - Occupation of the lead as reported by the lead at the beginning of the season
+*Lead City* - Hometown city for the Bachelor/Bachelorette
+*Lead State* - Hometown state for the Bachelor/Bachelorette
+*Lead Region* - Lead's hometown region based on the US Census Bureau
+*Age Difference* - The absolute value of the difference between the lead and individual contestants
+*Same Region* - Dummy variable to determine if the lead and the contestant are from the same region
+*Target* - The predictor variable - 0 if eliminated, 1 if winner
+
 **Data Preparation for Modeling** <br /> 
 Once we built our complete data set, we had to create some calculated columns to be used in our model. <br />
 These new variables included:
