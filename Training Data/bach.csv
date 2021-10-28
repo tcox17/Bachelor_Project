@@ -1,0 +1,705 @@
+Name,Age,Occupation,City,State,Region,ElimWeek,Season ID,Lead Name,Lead Age,Lead Occupation,Lead City,Lead State,Lead Region,Age Difference,Same Region,target
+Amanda Marsh,23.0,Event Planner,Chanute,Kansas,Midwest,,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,9.0,0,1
+Trista Rehn,29.0,Miami Heat Dancer,Miami,Florida,South,6.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,3.0,1,0
+Shannon Oliver,24.0,Financial Management Consultant,Dallas,Texas,South,5.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,8.0,1,0
+Kim,24.0,Nanny,Tempe,Arizona,West,4.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,8.0,0,0
+Cathy Grimes,22.0,Graduate Student,Terra Haute,Indiana,Midwest,3.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,10.0,0,0
+Christina,28.0,Attorney,Bonita,California,West,3.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,4.0,0,0
+LaNease Adams,23.0,Actress,Los Angeles,California,West,3.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,9.0,0,0
+Rhonda,28.0,Commercial Real Estate Agent,Woodward,Oklahoma,South,3.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,4.0,1,0
+Alexa,27.0,Special Ed. Teacher,Beverly Hills,California,West,2.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,5.0,0,0
+Amy,28.0,Production Coordinator,New York,New York,Northeast,2.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,4.0,0,0
+Angela,25.0,Hooters Waitress,Avondale,Arizona,West,2.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,7.0,0,0
+Angelique,27.0,Actress,Burbank,California,West,2.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,5.0,0,0
+Katie,23.0,Power Tool Sales Rep.,Malden,Massachusetts,Northeast,2.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,9.0,0,0
+Melissa,25.0,Photographer,Tempe,Arizona,West,2.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,7.0,0,0
+Tina,27.0,Graduate Student,Plano,Texas,South,2.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,5.0,1,0
+Amber,29.0,Business Development Director,Los Angeles,California,West,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,3.0,0,0
+Daniela,30.0,Neuropsychologist,Seattle,Washington,West,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,2.0,0,0
+Denise,30.0,Doctor,Honolulu,Hawaii,West,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,2.0,0,0
+Jackie,22.0,Bar Manager,Pittsburgh,Pennsylvania,Northeast,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,10.0,0,0
+Jill,31.0,Retail Manager,Chicago,Illinois,Midwest,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,1.0,0,0
+Kristina,27.0,Advertising Executive,Los Angeles,California,West,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,5.0,0,0
+Lisa,29.0,Attorney,Dallas,Texas,South,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,3.0,1,0
+Paula,24.0,Insurance Representative,Swansea,Massachusetts,Northeast,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,8.0,0,0
+Rachel,29.0,6th Grade Teacher,Eastchester,New York,Northeast,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,3.0,0,0
+Wendi,26.0,Technology Specialist,Dallas,Texas,South,1.0,Bachelor 1,Alex Michel,32.0,Management Consultant,Charlottesville,Virginia,South,6.0,1,0
+Helene Eksterowicz,27.0,School Psychologist,Gloucester,New Jersey,Northeast,,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,1.0,0,1
+Brooke Smith,22.0,College Student,Albertville,Alabama,South,7.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,6.0,0,0
+Gwen Gioia,31.0,Executive Recruiter,Philadelphia,Pennsylvania,Northeast,6.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,3.0,0,0
+Angela,27.0,Registered Nurse,Kansas City,Missouri,Midwest,5.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,1.0,1,0
+Hayley,28.0,Retail Manager,Lake Oswego,Oregon,West,4.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,0.0,0,0
+Heather Crawford,30.0,Flight Attendant,Dallas,Texas,South,4.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,2.0,0,0
+Christi,23.0,Assistant Financial Advisor,Boise,Idaho,West,3.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,5.0,0,0
+Heather,24.0,Marriage Therapy Trainee,Walnut Creek,California,West,3.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,4.0,0,0
+Kyla,22.0,Airline Supervisor,Midvale,Utah,West,3.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,6.0,0,0
+Shannon,26.0,Graphic Artist,Long Island,New York,Northeast,3.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,2.0,0,0
+Dana,24.0,Radio Sales,Beverly Hills,California,West,2.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,4.0,0,0
+Erin,25.0,Publications Quality Control,Westchester,Pennsylvania,Northeast,2.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,3.0,0,0
+Suzanne,33.0,Flight Attendant,Redondo Beach,California,West,2.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,5.0,0,0
+Frances,30.0,Strategic Planning Analyst,San Francisco,California,West,2.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,2.0,0,0
+Anindita,27.0,Attorney,New York,New York,Northeast,2.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,1.0,0,0
+Amber,26.0,Psychologist,Chapel Hill,North Carolina,South,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,2.0,0,0
+Camille,29.0,Actress,Los Angeles,California,West,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,1.0,0,0
+Cari,29.0,3rd Grade Teacher,Granite City,Illinois,Midwest,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,1.0,1,0
+Christy,24.0,Radiological Technologist,Avondale,Arizona,West,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,4.0,0,0
+Erin,24.0,Interior Designer,Houston,Texas,South,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,4.0,0,0
+Fatima,22.0,College Student,Long Beach,California,West,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,6.0,0,0
+Liangy,30.0,Paralegal,Coral Gables,Florida,South,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,2.0,0,0
+Lori,26.0,Former NBA Cheerleader,Dallas,Texas,South,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,2.0,0,0
+Merrilee,28.0,1st Grade Teacher,Forked River,New Jersey,Northeast,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,0.0,0,0
+Suzi,28.0,Communications Specialist,Richmond,Virginia,South,1.0,Bachelor 2,Aaron Buerge,28.0,Banker,Butler,Missouri,Midwest,0.0,0,0
+Jessica Bowlin,22.0,Student,Huntington Beach,California,West,,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,12.0,0,1
+Tara Huckeby,23.0,General contractor,Shawnee,Oklahoma,South,7.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,11.0,0,0
+Mandy Jaye Jeffreys,26.0,Designer for an architect firm,Midland,Texas,South,6.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,8.0,0,0
+Trish Schneider,28.0,Model,Atlanta,Georgia,South,5.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,6.0,0,0
+Suzie Williams,23.0,Prosthetic technician,Ann Arbor,Michigan,Midwest,4.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,11.0,0,0
+Karen Lindsay,28.0,Pharmaceutical sales,Pleasant Grove,Utah,West,4.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,6.0,0,0
+Jessica Holcomb,25.0,Attorney,Pearsall,Texas,South,3.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,9.0,0,0
+Julie Durda,24.0,Professional Cheerleader,Sacramento,California,West,3.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,10.0,0,0
+Jenny De Schiralli,26.0,Swim instructor/nanny/personal trainer,Carrboro,North Carolina,South,3.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,8.0,0,0
+Katie Gehart,22.0,LASIK Eye and Skin Center manager,Scottsdale,Arizona,West,3.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,12.0,0,0
+Jean-Marie Callahan,26.0,Hair stylist,Gibson,North Carolina,South,2.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,8.0,0,0
+Debbie Merkett,27.0,Massage therapist/bartender,Pinetops,North Carolina,South,2.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,7.0,0,0
+Anne-Catherine Labbé,27.0,Model/make-up artist,Quebec City,Quebec,Other,2.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,7.0,1,0
+Amber LaRoux,27.0,Consultant,Sunriver,Oregon,West,2.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,7.0,0,0
+Mandy Clemens,25.0,Professional soccer player,San Diego,California,West,2.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,9.0,0,0
+Kristy Romero,25.0,Student,Dearborn,Michigan,Midwest,2.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,9.0,0,0
+Celeste Creel,24.0,Model/executive assistant,Ithaca,New York,Northeast,2.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,10.0,0,0
+Jenny Matthews,24.0,Retail manager,Canton,Michigan,Midwest,2.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,10.0,0,0
+Dolores Farburg,26.0,Account manager,Madison,New Jersey,Northeast,1.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,8.0,0,0
+Francine Jones,25.0,Retail manager,Houston,Texas,South,1.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,9.0,0,0
+DeShaun Warner,25.0,Account manager/sales,Phillipsburg,New Jersey,Northeast,1.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,9.0,0,0
+Jessica Kyron,21.0,Student,Cincinnati,Ohio,Midwest,1.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,13.0,0,0
+Holly Reeder,26.0,Bank representative,Tulsa,Oklahoma,South,1.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,8.0,0,0
+Rachel Clementi,26.0,Fashion public relations manager,Buffalo,New York,Northeast,1.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,8.0,0,0
+Kristin Clearwater,25.0,Singer,Sausalito,California,West,1.0,Bachelor 5,Jesse Palmer,34.0,Professional Football Player,Toronto,Ontario,Other,9.0,0,0
+Jennifer Wilson,24.0,Teacher,Pembroke Pines,Florida,South,,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,10.0,0,1
+Sadie Murray,23.0,Publicist,Carlsbad,California,West,7.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,11.0,0,0
+Lisa Blank,25.0,Marketing manager,Portland,Oregon,West,6.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,9.0,0,0
+Agnese Polliza,24.0,Student,Venice,Italy,Other,5.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,10.0,1,0
+Jeanette Pawula,23.0,Teacher,Bloomingdale,Illinois,Midwest,4.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,11.0,0,0
+Desiree Valentin,22.0,Realtor,Salt Lake City,Utah,West,4.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,12.0,0,0
+Jami Matzke,27.0,Event planner,Galveston,Texas,South,3.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,7.0,0,0
+Gina Clark,28.0,Ultrasound technician,Chicago,Illinois,Midwest,3.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,6.0,0,0
+Erica Rose,23.0,Socialite,Houston,Texas,South,3.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,11.0,0,0
+Sarah Schnare,30.0,Journalist,Nelson,British Columbia,Other,2.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,4.0,1,0
+Kim Jackson,27.0,Interior designer,Newport Beach,California,West,2.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,7.0,0,0
+Ellen DeMaio,30.0,Realtor,New Haven,Connecticut,Northeast,2.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,4.0,0,0
+Tara Durr,24.0,Realtor,St. Augustine,Florida,South,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,10.0,0,0
+Rosella Fratto,27.0,Make-up artist,Chicago,Illinois,Midwest,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,7.0,0,0
+Rita Ghazal,29.0,Policy advisor,Richmond,Virginia,South,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,5.0,0,0
+Renee Snell,30.0,Broadcast marketer,Baltimore,Maryland,South,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,4.0,0,0
+Meri Barr,27.0,Attorney,Biloxi,Mississippi,South,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,7.0,0,0
+Laura Morgan,29.0,Dolphin trainer,San Diego,California,West,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,5.0,0,0
+Jessica Horner,25.0,Assistant buyer,Charlotte,North Carolina,South,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,9.0,0,0
+Heather Sneed,34.0,Registered nurse,Aliquippa,Pennsylvania,Northeast,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,0.0,0,0
+Elyse Hammer,27.0,Physician,New York,New York,Northeast,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,7.0,0,0
+Claudia Gismondi,22.0,Restaurateur,Boca Raton,Florida,South,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,12.0,0,0
+Carissa Ilburg,25.0,Attorney,Cattagraugus,New York,Northeast,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,9.0,0,0
+Britt (Bowe) Newton,28.0,Beer chemist,Columbus,Ohio,Midwest,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,6.0,0,0
+Andrea Shirley,28.0,Hotel concierge,Cincinnati,Ohio,Midwest,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,6.0,0,0
+April Jacobs,23.0,Model,Chicago,Illinois,Midwest,1.0,Bachelor 9,Lorenzo Borghese,34.0,Cosmetics Entrepreneur,Milan,Italy,Other,11.0,0,0
+Tessa Horst,26.0,Social Worker,San Francisco,California,West,,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,4.0,0,1
+Bevin Nicole Powers,28.0,Assistant,Palo Alto,California,West,8.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,2.0,0,0
+Danielle Imwalle,25.0,Graphic Designer,Bethel,Connecticut,Northeast,7.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,5.0,1,0
+Amber Alchalabi,23.0,Teacher,Sugar Land,Texas,South,6.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,7.0,0,0
+Stephanie Wilhite,23.0,Project Manager,Overland Park,Kansas,Midwest,5.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,7.0,0,0
+Tina Wu,26.0,Medical student,Los Angeles,California,West,5.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,4.0,0,0
+Kate Brockhouse,24.0,Boutique owner,Ravenel,South Carolina,South,4.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,6.0,0,0
+Nicole Clary,26.0,Sales Manager,Charleston,South Carolina,South,4.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,4.0,0,0
+Stephanie Tipper,27.0,Organ donor coordinator,Folly Beach,South Carolina,South,4.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,3.0,0,0
+Amanda Hackney,26.0,Financial analyst,Dallas,Texas,South,3.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,4.0,0,0
+Erin Parker,24.0,Financial analyst,Logansport,Louisiana,South,3.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,6.0,0,0
+Peyton Wright,24.0,Sorority recruiter,La Vergne,Tennessee,South,3.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,6.0,0,0
+Alexis Young,26.0,Attorney,Southlake,Texas,South,2.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,4.0,0,0
+Susan Anderson,23.0,Boutique manager,The Woodlands,Texas,South,2.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,7.0,0,0
+Tiffany Warren,28.0,Medical equipment sales rep,Boston,Massachusetts,Northeast,2.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,2.0,1,0
+Blakeney Rowe,29.0,Radio sales,Birmingham,Alabama,South,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,1.0,0,0
+Candace DeCost,23.0,Waitress,Hilton Head Island,South Carolina,South,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,7.0,0,0
+Catherine Warren,23.0,Former Miss Illinois,Lake Forest,Illinois,Midwest,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,7.0,0,0
+Danielle Vallis,26.0,Attorney,Bronx,New York,Northeast,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,4.0,1,0
+Jackie Topelli,23.0,Executive coordinator,Minneapolis,Minnesota,Midwest,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,7.0,0,0
+Jeanette Alvarez,27.0,Health care manager,Tampa,Florida,South,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,3.0,0,0
+Jessica Devallo,32.0,Hedge fund analyst,New York,New York,Northeast,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,2.0,1,0
+Linda Malek,33.0,Attorney,Cuyahoga Falls,Ohio,Midwest,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,3.0,0,0
+Lindsay Smith,22.0,Student,Lawrence,Kansas,Midwest,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,8.0,0,0
+Tiffany Forester,27.0,Real estate sales/development,St. Louis Park,Minnesota,Midwest,1.0,Bachelor 10,Andy Baldwin,30.0,Navy Lieutenant,Lancaster,Pennsylvania,Northeast,3.0,0,0
+Deanna Pappas,25.0,Realtor,Newnan,Georgia,South,8.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,10.0,1,0
+Jenni Croft,27.0,Phoenix Suns Cheerleader,Wichita,Kansas,Midwest,8.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,8.0,0,0
+Bettina Bell,27.0,Realtor,Washington,D.C.,Other,7.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,8.0,0,0
+Sheena Stewart,23.0,Internet marketing executive,Walnut Creek,California,West,6.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,12.0,0,0
+Hillary Reisinger,27.0,Registered nurse,Philadelphia,Pennsylvania,Northeast,5.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,8.0,0,0
+Kristy Katzmann,29.0,Acupuncturist,Gurnee,Illinois,Midwest,5.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,6.0,0,0
+"Estefania ""Stephy"" Kootz",26.0,Executive assistant,Atlanta,Georgia,South,4.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,9.0,1,0
+Jade Beazley,24.0,Boutique sales worker,Nashville,Tennessee,South,4.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,11.0,1,0
+McCarten Delaney,26.0,Account manager,Lemon Grove,California,West,4.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,9.0,0,0
+Lindsey Hawkins,25.0,Model,Livonia,Michigan,Midwest,3.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,10.0,0,0
+Sarah Newlon,23.0,Bar manager,O'Fallon,Illinois,Midwest,3.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,12.0,0,0
+Solisa Shoop,25.0,Esthetician,Georgetown,Texas,South,3.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,10.0,1,0
+Michele Leavy,30.0,Realtor,South Brunswick,New Jersey,Northeast,2.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,5.0,0,0
+Mallory Simons,24.0,Nanny,Honolulu,Hawaii,West,2.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,11.0,0,0
+Erin Gardner,25.0,Publishing sales executive,Tampa,Florida,South,2.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,10.0,1,0
+Jessica Kiss,27.0,News anchor,Lady Lake,Florida,South,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,8.0,1,0
+Juli Gilliam,24.0,Law student,Chicago,Illinois,Midwest,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,11.0,0,0
+Kim Orville,31.0,Realtor,Woodbridge,Connecticut,Northeast,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,4.0,0,0
+Lori Langley,33.0,Biology teacher,Annapolis,Maryland,South,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,2.0,1,0
+Melissa Buschel,28.0,Event planner,Westchester,New York,Northeast,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,7.0,0,0
+Morgan Becker,24.0,Graduate student,Tempe,Arizona,West,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,11.0,0,0
+Natalie Velasco,25.0,Law student,Duncanville,Texas,South,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,10.0,1,0
+Regina Doringa,31.0,Account representative,San Diego,California,West,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,4.0,0,0
+Tauni Nessler ,31.0,Emergency room nurse,St. Louis Park,Minnesota,Midwest,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,4.0,0,0
+Susan Stein,35.0,Project analyst,St. Charles,Illinois,Midwest,1.0,Bachelor 11,Brad Womack,35.0,Entrepreneur,Austin,Texas,South,0.0,0,0
+Shayne Lamas,22.0,Actress,Malibu,California,West,,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,5.0,0,1
+Chelsea Wanstrath,25.0,Pharmaceutical sales rep.,Durango,Colorado,West,8.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,2.0,0,0
+Amanda Rantuccio,27.0,Account Executive,Niceville,Florida,South,7.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,0.0,0,0
+Noelle Drake,26.0,Photographer,Loveland,Colorado,West,6.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,1.0,0,0
+Marshana Ritchie,27.0,Fashion designer,Brooklyn,New York,Northeast,5.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,0.0,0,0
+Robin Canfield,22.0,Advertising coordinator,Holland,Michigan,Midwest,5.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,5.0,0,0
+Ashlee Williss,22.0,Singer-songwriter,Jacksonville Beach,Florida,South,4.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,5.0,0,0
+Kelly Duncan,25.0,Medical sales rep.,Hollywood,California,West,4.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,2.0,0,0
+Holly Durst,24.0,Children's book author,Suffield,Ohio,Midwest,4.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,3.0,0,0
+Amy,22.0,Nanny,Stockton,California,West,3.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,5.0,0,0
+Erin Storm,33.0,Hot-dog vendor,Venice,California,West,3.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,6.0,0,0
+Kristine Heffelfinger,33.0,Personal trainer,Dillsburg,Pennsylvania,Northeast,3.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,6.0,0,0
+Carri Perrier,25.0,Church marketing rep.,Oklahoma City,Oklahoma,South,2.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,2.0,0,0
+Erin Harper,25.0,Event planner,Seattle,Washington,West,2.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,2.0,0,0
+Michelle P.,28.0,Administrative assistant,Syracuse,New York,Northeast,2.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,1.0,0,0
+Alyssa,24.0,Biology student,Boise,Idaho,West,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,3.0,0,0
+Amanda Petterman,26.0,Law student,LaFollette,Tennessee,South,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,1.0,0,0
+Denise,30.0,Attorney and former White House aide,Washington,D.C,Other,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,3.0,1,0
+Devon,24.0,Makeup artist,Austin,Texas,South,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,3.0,0,0
+Lesley Geyer,23.0,Youth minister,Tampa,Florida,South,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,4.0,0,0
+Michele R.,33.0,Interior designer,Laguna Niguel,California,West,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,6.0,0,0
+Rebecca,30.0,Attorney,Alamo,California,West,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,3.0,0,0
+Stacey Elza,26.0,Graduate student,Chicago,Illinois,Midwest,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,1.0,0,0
+Tamara,23.0,Cocktail waitress,Beverly Hills,California,West,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,4.0,0,0
+Tiffany,33.0,Real estate marketing rep.,San Francisco,California,West,1.0,Bachelor 12,Matt Grant,27.0,Global Financier,London,England,Other,6.0,0,0
+Melissa Rycroft,25.0,Sales Representative,Dallas,Texas,South,,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,8.0,0,1
+Molly Malaney,24.0,Department Store Buyer,Brookfield,Wisconsin,Midwest,8.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,9.0,1,0
+Jillian Harris,29.0,Interior Designer,Peace River,Alberta,Other,7.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,4.0,0,0
+Naomi Rose Crespo,24.0,Flight Attendant,Carlsbad,California,West,6.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,9.0,0,0
+Stephanie Hogan,34.0,Single Mother & Medical Marketing Rep.,Huntsville,Alabama,South,5.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,1.0,0,0
+Lauren Wanger,27.0,Teacher,Marlboro,New Jersey,Northeast,4.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,6.0,0,0
+Megan Parris,25.0,Single Mother and Lacrosse Coach,Sewickley,Pennsylvania,Northeast,4.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,8.0,0,0
+Shannon Bair,29.0,Dental Hygienist,Marshall,Missouri,Midwest,4.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,4.0,1,0
+"Nicole ""Nikki"" Kaapke",29.0,Administrative Assistant,Blue Island,Illinois,Midwest,4.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,4.0,1,0
+Erica DeSimone,25.0,Account Executive,Monroe,Connecticut,Northeast,3.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,8.0,0,0
+Kari Fajen,27.0,Account Executive,Lee's Summit,Missouri,Midwest,3.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,6.0,1,0
+Natalie Getz,27.0,Human Resources Recruiter,Morton,Illinois,Midwest,3.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,6.0,1,0
+Raquel Medeiros,27.0,Medical Student,Recife,Brazil,Other,2.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,6.0,0,0
+Sharon Staebell,32.0,Teacher,Batavia,New York,Northeast,2.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,1.0,0,0
+Lisa Gonzalez,28.0,Public Relations Associate,Boise,Idaho,West,2.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,5.0,0,0
+Ann Lueders,24.0,Flight Attendant,Phoenix,Arizona,West,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,9.0,0,0
+Dominique Carta,26.0,Medical Sales Rep.,Mt. Carmel,Pennsylvania,Northeast,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,7.0,0,0
+Emily,23.0,Casino Marketing Rep.,Seattle,Washington,West,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,10.0,0,0
+Jackie Hickey,26.0,Wedding Coordinator,Springfield,Massachusetts,Northeast,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,7.0,0,0
+Julie Dermotta,26.0,Teacher,Columbus,Ohio,Midwest,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,7.0,1,0
+Nicole Mah,25.0,Menswear Buyer,Calgary,Alberta,Other,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,8.0,0,0
+Renee Simlak,36.0,Jewelry Designer,Southfield,Michigan,Midwest,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,3.0,1,0
+Shelby,23.0,Account Executive,Stockton,California,West,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,10.0,0,0
+Stacia Mann,24.0,Single Mother & Charity Accountant,Orem,Utah,West,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,9.0,0,0
+Treasure Morgan,28.0,Single Mother and Nurse Practitioner,Salt Lake City,Utah,West,1.0,Bachelor 13,Jason Mesnick,33.0,Account Executive,Cleveland,Ohio,Midwest,5.0,0,0
+Vienna Girardi,23.0,Marketing Representative,Geneva,Florida,South,,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,9.0,1,1
+Tenley Molzahn,25.0,College Admissions,Newberg,Oregon,West,8.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,0,0
+Gia Allemand,26.0,Swimsuit Model,New York,New York,Northeast,7.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,6.0,0,0
+Ali Fedotowsky,25.0,Advertising Account Manager,Williamstown,Massachusetts,Northeast,6.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,0,0
+Corrie Adamson,23.0,Wardrobe Consultant,Kissimmee,Florida,South,5.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,9.0,1,0
+Ashleigh Hunt,25.0,Account Manager,North Potomac,Maryland,South,4.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,1,0
+Jessie Sulidis,25.0,Cosmetic Sales Manager,Oakville,Ontario,Other,4.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,0,0
+Kathryn Sherlock,25.0,Corporate Flight Attendant,Lexington,Kentucky,South,4.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,1,0
+Ella Nolan,30.0,Hair Stylist,La Follette,Tennessee,South,4.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,2.0,1,0
+Elizabeth Kitt (NE),29.0,Nanny,Imperial,Nebraska,Midwest,3.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,3.0,0,0
+Valishia Savage,32.0,Homemaker,San Bernardino,California,West,3.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,0.0,0,0
+Michelle Kujawa,26.0,Office Manager,Anaheim,California,West,3.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,6.0,0,0
+Ashley Elmore,29.0,Teacher,Pittsburgh,Pennsylvania,Northeast,2.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,3.0,0,0
+Christina McCasland,25.0,Restaurant Manager,San Diego,California,West,2.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,0,0
+Rozlyn Papa,28.0,Model/Make-Up Artist,Richmond,Virginia,South,2.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,4.0,1,0
+Alexa (Lex) McAllister,25.0,Entrepreneur,Galloway,Ohio,Midwest,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,0,0
+Caitlyn McCabe,24.0,Spokesmodel,Winfield,Illinois,Midwest,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,8.0,0,0
+Channy Choch,29.0,Mortgage Loan Officer,Santa Rosa,California,West,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,3.0,0,0
+Elizabeth Kreft (D.C.),29.0,"Captain, Air National Guard",Union,Kentucky,South,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,3.0,1,0
+Emily Harkins,23.0,Fitness Model,West Chester,Ohio,Midwest,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,9.0,0,0
+Kimberly Sullivan,24.0,NBA Dancer,Norman,Oklahoma,South,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,8.0,1,0
+Kirsten Pittman,25.0,Waitress,Aurora,Colorado,West,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,0,0
+Sheila Marie Lidner,25.0,Commercial Pilot,Scottsdale,Arizona,West,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,7.0,0,0
+Stephanie Mueller,24.0,Dance Teacher,Morris,Illinois,Midwest,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,8.0,0,0
+Tiana Kruzel,31.0,Medical Technician,Calgary,Alberta,Other,1.0,Bachelor 14,Jake Pavelka,32.0,Flight Instructor,Dallas,Texas,South,1.0,0,0
+Emily Maynard,25.0,Children's Hospital Event Planner,Morgantown,West Virginia,South,,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,13.0,1,1
+Chantal O'Brien,28.0,Executive Assistant,Mercer Island,Washington,West,10.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,10.0,0,0
+Ashley Hebert,26.0,Dental Student,Madawaska,Maine,Northeast,9.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,12.0,0,0
+Shawntel Newton,25.0,Funeral Director,Chico,California,West,8.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,13.0,0,0
+Michelle Money,30.0,Hair stylist,Salt Lake City,Utah,West,7.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,8.0,0,0
+Britt Billmaier,25.0,Food writer,Woodinville,Washington,West,7.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,13.0,0,0
+Jackie Gordon,26.0,Artist,Newport,Rhode Island,Northeast,6.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,12.0,0,0
+Alli Travis,24.0,Apparel merchant,Columbus,Ohio,Midwest,6.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,14.0,0,0
+Lisa Morrisey,24.0,Marketing Coordinator,Ottawa,Kansas,Midwest,5.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,14.0,0,0
+Marissa May,26.0,Sports Publicist,Mesa,Arizona,West,5.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,12.0,0,0
+Ashley Spivey,26.0,Nanny,Ellerbe,North Carolina,South,5.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,12.0,1,0
+Lindsay Hill,25.0,First grade teacher,Plano,Texas,South,4.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,13.0,1,0
+Meghan Merritt,30.0,Fashion Marketer,Princeton,New Jersey,Northeast,4.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,8.0,0,0
+Stacey Quirpel,26.0,Bartender,Quincy,Massachusetts,Northeast,4.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,12.0,0,0
+Kimberly Coon,27.0,Marketing Coordinator,Orlando,Florida,South,3.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,11.0,1,0
+Sarah Powell,27.0,Real Estate Broker,Denver,Colorado,West,3.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,11.0,0,0
+Madison Garton,25.0,Model,Vail,Colorado,West,3.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,13.0,0,0
+Keltie Colleen,28.0,Radio City Rockette,Sherwood Park,Alberta,Other,2.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,10.0,0,0
+Melissa Schreiber,32.0,Waitress,Westport,Connecticut,Northeast,2.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,6.0,0,0
+Raichel Goodyear,29.0,Manscaper,Fullerton,California,West,2.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,9.0,0,0
+Britnee,25.0,Paralegal,Holland,Pennsylvania,Northeast,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,13.0,0,0
+Cristy Caserta,30.0,Attorney,Davie,Florida,South,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,8.0,1,0
+"Jessica ""J"" Adams",26.0,Operations Manager,Seattle,Washington,West,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,12.0,0,0
+Jill Ruskowski,28.0,Sales director,Frisco,Texas,South,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,10.0,1,0
+Lacey Garbelman,27.0,Insurance agent,Tampa,Florida,South,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,11.0,1,0
+Lauren Moore,26.0,High School Teacher,Culpeper,Virginia,South,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,12.0,1,0
+Lisa P.,27.0,Sales Consultant,Dix Hills,New York,Northeast,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,11.0,0,0
+Rebecca,30.0,Esthetician,Mission Viejo,California,West,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,8.0,0,0
+Renee Halpin,28.0,Nanny,Palos Hills,Illinois,Midwest,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,10.0,0,0
+Sarah Ledtke,25.0,Musical Theatre Performer,Saginaw,Michigan,Midwest,1.0,Bachelor 15,Brad Womack,38.0,Entrepreneur,Austin,Texas,South,13.0,0,0
+Courtney Robertson,28.0,Model,Scottsdale,Arizona,West,,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,0.0,1,1
+Lindzi Cox,27.0,Business development manager,Newcastle,Washington,West,10.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,1.0,1,0
+Nicki Sterling,26.0,Dental hygienist,Hurst,Texas,South,9.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,2.0,0,0
+Kacie Boguskie,24.0,Administrative assistant,Clarksville,Tennessee,South,8.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,4.0,0,0
+Emily O'Brien,27.0,PhD Student,Chapel Hill,North Carolina,South,7.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,1.0,0,0
+Rachel Truehart,27.0,Fashion sales representative,Southampton,Massachusetts,Northeast,7.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,1.0,0,0
+Jamie Otis,25.0,Registered nurse,Dryden,New York,Northeast,6.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,3.0,0,0
+Casey Shteamer,26.0,Trading clerk,Leawood,Kansas,Midwest,6.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,2.0,0,0
+Blakeley Jones,33.0,VIP cocktail waitress,Rutherfordton,North Carolina,South,6.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,5.0,0,0
+Jennifer Fritsch,28.0,Accountant,Cache,Oklahoma,South,5.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,0.0,0,0
+Elyse Myers,24.0,Personal trainer,Chicago,Illinois,Midwest,5.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,4.0,0,0
+Monica Spannbauer,33.0,Dental consultant,Yuba,California,West,4.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,5.0,1,0
+Samantha Levey,26.0,Advertising account manager,Pittsburgh,Pennsylvania,Northeast,4.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,2.0,0,0
+Erika Uhlig,23.0,Law student,Charlottesville,Virginia,South,3.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,5.0,0,0
+Jaclyn Swartz,27.0,Advertising account manager,Newton,Massachusetts,Northeast,3.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,1.0,0,0
+Brittney Schreiner,26.0,Medical sales representative,Colorado Springs,Colorado,West,3.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,2.0,1,0
+Jenna Burke,27.0,Blogger,Loveland,Ohio,Midwest,2.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,1.0,0,0
+Shawn Reynolds,28.0,Financial advisor,Cincinnati,Ohio,Midwest,2.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,0.0,0,0
+Amber Bacon,23.0,Labor and delivery nurse,Port Coquitlam,British Columbia,Other,1.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,5.0,0,0
+Amber Tierney,28.0,Critical care nurse,Waverly,Nebraska,Midwest,1.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,0.0,0,0
+Anna Snowball,25.0,Student,Detroit,Michigan,Midwest,1.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,3.0,0,0
+Dianna Martinez,30.0,Nonprofit director,San Gabriel,California,West,1.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,2.0,1,0
+Holly Johnson,34.0,Pharmaceutical sales representative,Salyersville,Kentucky,South,1.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,6.0,0,0
+Lyndsie James,29.0,Internet entrepreneur,London,England,Other,1.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,1.0,0,0
+Shira Astrof,35.0,Actress,Massapequa Park,New York,Northeast,1.0,Bachelor 16,Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,7.0,0,0
+Catherine Giudici,26.0,Graphic Designer,Seattle,Washington,West,,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,2.0,0,1
+Lindsay Yenter,24.0,Substitute Teacher,Fort Bragg,North Carolina,South,10.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,4.0,1,0
+AshLee Frazier,32.0,Personal Organizer,Houston,Texas,South,9.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,4.0,1,0
+Desiree Hartsock,26.0,Bridal Stylist,Northglenn,Colorado,West,8.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,2.0,0,0
+Lesley Murphy,24.0,Political Consultant,Fort Smith,Arkansas,South,7.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,4.0,1,0
+Tierra LiCausi,24.0,Leasing Consultant,Las Vegas,Nevada,West,7.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,4.0,0,0
+Daniella McBride,24.0,Commercial Casting Associate,Belmont,California,West,6.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,4.0,0,0
+Selma Alameri,29.0,Real Estate Dealer,Borrego Springs,California,West,6.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,1.0,0,0
+Sarah Herron,26.0,Advertising Executive,Evergreen,Colorado,West,6.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,2.0,0,0
+Robyn Howard,24.0,Oil Field Account Manager,Topeka,Kansas,Midwest,5.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,4.0,0,0
+Jackie Parr,25.0,Cosmetics Consultant,Ormond Beach,Florida,South,5.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,3.0,1,0
+Amanda Meyer,26.0,Fit Model,Bakersfield,California,West,4.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,2.0,0,0
+Leslie Hughes,28.0,Poker Dealer,Ruskin,Florida,South,4.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,0.0,1,0
+Kristy Kaminski,25.0,Model,Darien,Wisconsin,Midwest,3.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,3.0,0,0
+Taryn Renee Daniels,30.0,Health Club Manager,Troutdale,Oregon,West,3.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,2.0,0,0
+Kacie Boguskie,25.0,Administrative Assistant,Clarksville,Tennessee,South,3.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,3.0,1,0
+Brooke Burchette,25.0,Community Organizer,Pittsburgh,Pennsylvania,Northeast,2.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,3.0,0,0
+Diana Weeks Willardson,31.0,Salon Owner,Sandy,Utah,West,2.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,3.0,0,0
+Katie Levans,27.0,Yoga Instructor,Woodstock,Illinois,Midwest,2.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,1.0,0,0
+Ashley Harper,25.0,Fashion Model,Garner,North Carolina,South,1.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,3.0,1,0
+Ashley Palenkas,28.0,Hair Stylist,Macomb,Michigan,Midwest,1.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,0.0,0,0
+Kelly Dutton,28.0,Cruise Ship Entertainer,Chattanooga,Tennessee,South,1.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,0.0,1,0
+Keriann Miranda,29.0,Entrepreneur,Agoura Hills,California,West,1.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,1.0,0,0
+Lacey Latka,24.0,Graduate Student,Stevenson Ranch,California,West,1.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,4.0,0,0
+Lauren Marchetti,27.0,Journalist,Cranston,Rhode Island,Northeast,1.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,1.0,0,0
+Paige Vigil,25.0,Jumbotron Operator,Minnetonka,Minnesota,Midwest,1.0,Bachelor 17,Sean Lowe,28.0,Entrepreneur,McKinney,Texas,South,3.0,0,0
+Nikki Ferrell,26.0,Pediatric Nurse,Kearney,Missouri,Midwest,,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,6.0,0,1
+Clare Crawley,32.0,Hairstylist,Sacramento,California,West,10.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,0.0,0,0
+Andi Dorfman,26.0,Assistant District Attorney,Buckhead,Georgia,South,9.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,6.0,1,0
+Renee Oteri,32.0,Real Estate Agent,Martha's Vineyard,Massachusetts,Northeast,8.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,0.0,0,0
+Chelsie Webster,24.0,Science Educator,Lexington,Ohio,Midwest,7.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,8.0,0,0
+Sharleen Joynt,29.0,Opera Singer,Ottawa,Ontario,Other,7.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,3.0,0,0
+Kat Hurd,29.0,Medical Sales Representative/NBA Dancer,Iowa City,Iowa,Midwest,6.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,3.0,0,0
+Cassandra Ferguson,22.0,Former NBA Dancer,Shelby Charter Township,Michigan,Midwest,6.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,10.0,0,0
+Alli Restko,26.0,Nanny,Orland Park,Illinois,Midwest,5.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,6.0,0,0
+Danielle Ronco,25.0,Psychiatric Nurse,Litchfield,Illinois,Midwest,5.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,7.0,0,0
+Kelly Travis,27.0,Dog Lover,Conyers,Georgia,South,5.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,5.0,1,0
+Elise Mosca,27.0,First Grade Teacher,Forty Fort,Pennsylvania,Northeast,4.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,5.0,0,0
+Lauren Solomon,26.0,Music Composer,Austin,Texas,South,4.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,6.0,1,0
+Christy Hansen,24.0,Marketing Manager,Aurora,Illinois,Midwest,3.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,8.0,0,0
+"Lucinda ""Lucy"" Aragon",25.0,Free Spirit,Santa Barbara,California,West,3.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,7.0,0,0
+Amy Long,27.0,Local News Reporter,Clermont,Florida,South,2.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,5.0,1,0
+Chantel Forrest,27.0,Account Manager,Miami,Florida,South,2.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,5.0,1,0
+Victoria Lima,24.0,Legal Assistant,Porto Alegre,Brazil,Other,2.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,8.0,0,0
+Alexis Morgado,24.0,Communications Director/NHL Ice Girl,Tampa,Florida,South,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,8.0,1,0
+Amy Jokinen,31.0,Massage Therapist,Apopka,Florida,South,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,1.0,1,0
+Ashley Poe,25.0,Grade School Teacher,Roanoke,Texas,South,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,7.0,1,0
+Christine Llano,23.0,Police Support Specialist,Miami,Florida,South,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,9.0,1,0
+Kylie Lewis,23.0,Interior Designer,Rockford,Illinois,Midwest,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,9.0,0,0
+Lacy Faddoul,25.0,Nursing Home Owner,Antelope Acres,California,West,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,7.0,0,0
+Lauren Higginson,25.0,Mineral Coordinator,Edmond,Oklahoma,South,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,7.0,1,0
+Maggie Gantt,25.0,Personal Banker,Wagener,South Carolina,South,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,7.0,1,0
+Valerie Eredia,26.0,Personal Trainer,Sutter,California,West,1.0,Bachelor 18,Juan Pablo Galavais,32.0,Professional Soccer Player,Miami,Florida,South,6.0,0,0
+Whitney Bischoff,29.0,Fertility Nurse,Louisville,Kentucky,South,,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,4.0,0,1
+Becca Tilley,25.0,Chiropractic Assistant,Shreveport,Louisiana,South,10.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,8.0,0,0
+Kaitlyn Bristowe,29.0,Dance Instructor,Leduc,Alberta,Other,9.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,4.0,0,0
+Jade Roper,28.0,Cosmetics Developer,Gering,Nebraska,Midwest,8.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,5.0,1,0
+Carly Waddell,29.0,Cruise Ship Singer,Arlington,Texas,South,7.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,4.0,0,0
+Britt Nilsson,27.0,Waitress,Wolcott Mills,Michigan,Midwest,7.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,6.0,1,0
+Megan Bell,24.0,Make-Up Artist,Nashville,Tennessee,South,6.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,9.0,0,0
+Kelsey Poe,28.0,Guidance Counselor,Hudsonville,Michigan,Midwest,6.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,5.0,1,0
+Ashley Iaconetti,26.0,Nanny/Freelance Journalist,Great Falls,Virginia,South,6.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,7.0,0,0
+Mackenzie Deonigi,21.0,Dental Assistant,Maple Valley,Washington,West,5.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,12.0,0,0
+Samantha Steffen,27.0,Fashion Designer,Indianapolis,Indiana,Midwest,5.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,6.0,1,0
+Ashley Salter,24.0,Hair Stylist,Vinings,Georgia,South,4.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,9.0,0,0
+Juelia Kinney,30.0,Esthetician,Beaverton,Oregon,West,4.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,3.0,0,0
+Nikki Delventhal,26.0,Former NFL Cheerleader,Hasbrouck Heights,New Jersey,Northeast,4.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,7.0,0,0
+Jillian Anderson,25.0,News Producer,Howland,Ohio,Midwest,4.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,8.0,1,0
+Amber James,29.0,Bartender,Kankakee,Illinois,Midwest,3.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,4.0,1,0
+Tracy Darakis,29.0,Fourth Grade Teacher,Wellington,Florida,South,3.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,4.0,0,0
+Trina Scherenberg,33.0,Special Education Teacher,Algonquin,Illinois,Midwest,3.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,0.0,1,0
+Alissa Giambrone,24.0,Flight Attendant,Hamilton,New Jersey,Northeast,2.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,9.0,0,0
+Jordan Branch,24.0,Student,Windsor,Colorado,West,2.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,9.0,0,0
+Kimberly Sherbach,28.0,Yoga Instructor,Wantagh,New York,Northeast,2.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,5.0,0,0
+Tandra Steiner,30.0,Executive Assistant,Sandy,Utah,West,2.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,3.0,0,0
+Tara Eddings,26.0,Sport Fishing Enthusiast,Fort Lauderdale,Florida,South,2.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,7.0,0,0
+Amanda Goerlitz,24.0,Ballet Teacher,Lake in the Hills,Illinois,Midwest,1.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,9.0,1,0
+Bo Stanley,25.0,Plus-Size Model,Carpinteria,California,West,1.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,8.0,0,0
+Brittany Fetkin,26.0,WWE Diva-in-Training,Temecula,California,West,1.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,7.0,0,0
+Kara Wilson,25.0,High School Soccer Coach,Brownsville,Kentucky,South,1.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,8.0,0,0
+Michelle Davis,25.0,Wedding Cake Baker,Provo,Utah,West,1.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,8.0,0,0
+Nicole Meacham,31.0,Real Estate Agent,Scottsdale,Arizona,West,1.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,2.0,0,0
+Reegan Cornwell,28.0,Cadaver Tissue Saleswoman,Manhattan Beach,California,West,1.0,Bachelor 19,Chris Soules,33.0,Farmer,Arlington,Iowa,Midwest,5.0,0,0
+Lauren Bushnell,25.0,Flight Attendant,West Linn,Oregon,West,,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,1.0,0,1
+"Joelle ""JoJo"" Fletcher",24.0,Real Estate Developer,Dallas,Texas,South,10.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,2.0,0,0
+Caila Quinn,24.0,Software Sales Representative,Hudson,Ohio,Midwest,9.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,2.0,1,0
+Amanda Stanton,25.0,Esthetician,Rancho Santa Margarita,California,West,8.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,1.0,0,0
+Becca Tilley,26.0,Chiropractic Assistant,Shreveport,Louisiana,South,7.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,0.0,0,0
+Emily Ferguson,23.0,Waitress,Las Vegas,Nevada,West,7.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,3.0,0,0
+Lauren Himle,25.0,Kindergarten Teacher,Dexter,Michigan,Midwest,6.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,1.0,1,0
+Olivia Caridi,23.0,Former News Anchor,Bristol,Virginia,South,6.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,3.0,0,0
+Leah Block,25.0,Event Planner,Greenwood Village,Colorado,West,6.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,1.0,0,0
+Jennifer Saviano,25.0,Small Business Owner,Lauderdale Lakes,Florida,South,5.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,1.0,0,0
+Jubilee Sharpe,24.0,War Veteran,Fort Lauderdale,Florida,South,5.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,2.0,0,0
+Amber James,30.0,Bartender,Kankakee,Illinois,Midwest,4.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,4.0,1,0
+Rachel Tchen,23.0,Unemployed,Little Rock,Arkansas,South,4.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,3.0,0,0
+Haley Ferguson,23.0,Waitress,Las Vegas,Nevada,West,4.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,3.0,0,0
+Jami Letain,23.0,Bartender,St. Albert,Alberta,Other,3.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,3.0,0,0
+Shushanna Mkrtychyan,27.0,Mathematician,Salt Lake City,Utah,West,3.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,1.0,0,0
+Lace Morris,25.0,Real Estate Agent,Denver,Colorado,West,3.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,1.0,0,0
+"Amanda ""Mandi"" Kremer",28.0,Dentist,Portland,Oregon,West,2.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,2.0,0,0
+"Jacqueline ""Jackie"" Dion",23.0,Gerontologist,Newport Beach,California,West,2.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,3.0,0,0
+Samantha Passmore,26.0,Attorney,New Smyrna Beach,Florida,South,2.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,0.0,0,0
+"Lauren ""LB"" Barr",23.0,Fashion Buyer,Stillwater,Oklahoma,South,2.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,3.0,0,0
+Breanne Rice,30.0,Nutritional Therapist,Seattle,Washington,West,1.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,4.0,0,0
+"Isabel ""Izzy"" Goodkind",24.0,Graphic Designer,Branford,Connecticut,Northeast,1.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,2.0,0,0
+Jessica Moser,23.0,Accountant,Boca Raton,Florida,South,1.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,3.0,0,0
+Laura Esselman,24.0,Account Executive,Louisville,Kentucky,South,1.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,2.0,0,0
+Lauren Russell,26.0,Math Teacher,Houston,Texas,South,1.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,0.0,0,0
+Maegan Miller,30.0,Cowgirl,Visalia,California,West,1.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,4.0,0,0
+Tiara Soleim,27.0,Chicken Enthusiast,Redmond,Washington,West,1.0,Bachelor 20,Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,1.0,0,0
+Alexis,23.0,Aspiring Dolphin Trainer,Secaucus,New Jersey,Northeast,5.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,13.0,0,0
+Angela,26.0,Model,Greenville,South Carolina,South,1.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,10.0,0,0
+Astrid,26.0,Plastic Surgery Office Manager,Tampa,Florida,South,4.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,10.0,0,0
+Briana,28.0,Surgical Unit Nurse,Salt Lake City,Utah,West,1.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,8.0,0,0
+Brittany,26.0,Travel Nurse,Santa Monica,California,West,3.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,10.0,0,0
+Christen,25.0,Wedding Videographer,Tulsa,Oklahoma,South,3.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,11.0,0,0
+Corinne,24.0,Business Owner,Miami,Florida,South,8.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,12.0,0,0
+Danielle L.,27.0,Small Business Owner,Los Angeles,California,West,6.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,9.0,0,0
+Danielle M.,31.0,Neonatal Nurse,Nashville,Tennessee,South,7.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,5.0,0,0
+Dominique,25.0,Restaurant Server,Los Angeles,California,West,3.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,11.0,0,0
+Liz,29.0,Doula,Las Vegas,Nevada,West,2.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,7.0,0,0
+Elizabeth,24.0,Marketing Manager,Dallas,Texas,South,2.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,12.0,0,0
+Hailey,23.0,Photographer,Vancouver,British Columbia,Other,2.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,13.0,0,0
+Ida Marie,23.0,Sales Manager,Harlingen,Texas,South,1.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,13.0,0,0
+Jaimi,28.0,Chef,New Orleans,Louisiana,South,5.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,8.0,0,0
+Jasmine B.,25.0,Flight Attendant,Tacoma,Washington,West,1.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,11.0,0,0
+Jasmine G.,29.0,Pro Basketball Dancer,San Francisco,California,West,6.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,7.0,0,0
+Josephine,24.0,Registered Nurse,Santa Cruz,California,West,5.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,12.0,0,0
+Kristina,24.0,Dental Hygienist,Lexington,Kentucky,South,7.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,12.0,0,0
+Lacey,25.0,Digital Marketing Manager,Manhattan,New York,Northeast,2.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,11.0,0,0
+Lauren,30.0,Law School Graduate,Naples,Florida,South,1.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,6.0,0,0
+Michelle,24.0,Food Truck Owner,Los Angeles,California,West,1.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,12.0,0,0
+Olivia,25.0,Apparel Sales Representative,Anchorage,Alaska,West,1.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,11.0,0,0
+Rachel,31.0,Attorney,Dallas,Texas,South,9.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,5.0,0,0
+Raven,25.0,Fashion Boutique Owner,Hoxie,Arkansas,South,10.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,11.0,0,0
+Sarah,26.0,Grade School Teacher,Newport Beach,California,West,4.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,10.0,0,0
+Susannah,26.0,Account Manager,San Diego,California,West,1.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,10.0,0,0
+Taylor,23.0,Mental Health Counselor,Seattle,Washington,West,5.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,13.0,0,0
+Vanessa,29.0,Special Education Teacher,Montreal,Quebec,Other,,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,7.0,0,1
+Whitney,25.0,Pilates Instructor,Chanhassen,Minnesota,Midwest,6.0,Bachelor 21,Nick Viall,36.0,Software Sales Executive,Milwaukee,Wisconsin,Midwest,11.0,1,0
+Ryan Sutter,29.0,Firefighter,Vail,Colorado,West,,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,1.0,0,1
+Charlie Maher,28.0,Financial Analyst,Hermosa Beach,California,West,6.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,2.0,0,0
+Russ,30.0,Writer,San Rafael,California,West,5.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,0.0,0,0
+Greg T.,28.0,Importer,Manhattan,New York,Northeast,4.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,2.0,0,0
+Bob Guiney,31.0,Mortgage Broker,Ferndale,Michigan,Midwest,3.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,1.0,1,0
+Jamie Blyth,27.0,Professional Basketball Player,Chicago,Illinois,Midwest,3.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,3.0,1,0
+Mike,24.0,Sales and Consulting,Cincinnati,Ohio,Midwest,3.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,6.0,1,0
+Rob,29.0,Computer Programmer,Dallas,Texas,South,3.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,1.0,0,0
+Brian C.,28.0,Mortgage Broker,Dallas,Texas,South,2.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,2.0,0,0
+Brian S.,28.0,Sales Engineer,Dallas,Texas,South,2.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,2.0,0,0
+Brook,29.0,Rodeo Cowboy,Dallas,Texas,South,2.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,1.0,0,0
+Jack,27.0,Firefighter,Pepper Pike,Ohio,Midwest,2.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,3.0,1,0
+Jeff,25.0,Professional Football Player,San Diego,California,West,2.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,5.0,0,0
+Josh,31.0,Radio Advertising Executive,Boca Raton,Florida,South,2.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,1.0,0,0
+Brian H.,30.0,National Sales Manager,Cleveland,Ohio,Midwest,2.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,0.0,1,0
+Billy,28.0,Firefighter,Hermosa Beach,California,West,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,2.0,0,0
+Brian K.,31.0,Breast Implant Sales,San Francisco,California,West,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,1.0,0,0
+Chris,35.0,V.P. of Auto Parts Company,Sugarloaf,Pennsylvania,Northeast,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,5.0,0,0
+Duane,28.0,Flight Instructor,Chisago City,Minnesota,Midwest,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,2.0,1,0
+Eric,33.0,Commercial Pilot,St. Louis,Missouri,Midwest,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,3.0,1,0
+Gregg H.,34.0,Marble Company Owner,Freehold,New Jersey,Northeast,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,4.0,0,0
+Matt,42.0,Gym Owner,Marina Del Rey,California,West,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,12.0,0,0
+Paul,26.0,Telecommunications,Honolulu,Hawaii,West,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,4.0,0,0
+Peter,25.0,Construction Business Owner,Long Island,New York,Northeast,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,5.0,0,0
+Wayne,37.0,Commercial Pilot,Sacramento,California,West,1.0,Bachelorette 1,Trista Rehn,30.0,Physical therapist,Indianapolis,Indiana,Midwest,7.0,0,0
+Ian McKee,29.0,Equity Research Sales,New York,New York,Northeast,,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,0,1
+Matthew Hickl,28.0,Pharmaceutical Sales Rep,Friendswood,Texas,South,8.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,2.0,0,0
+Chad,31.0,Pharmaceutical Sales Rep,Buffalo,New York,Northeast,6.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,0,0
+Lanny,26.0,Stallion and Breeding Manager,Aubrey,Texas,South,5.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,4.0,0,0
+Brad,29.0,Pharmaceutical Sales Rep,Grand Rapids,Michigan,Midwest,4.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,0,0
+Ryan M.,30.0,Financial Advisor,Santa Barbara,California,West,4.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,0.0,1,0
+Sean,31.0,CPA,Wall,New Jersey,Northeast,4.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,0,0
+Rick,29.0,Business Manager,San Diego,California,West,3.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,1,0
+Ryan R.,29.0,Sales/Marketing,Wynola,California,West,3.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,1,0
+Todd,36.0,Options Trader,San Francisco,California,West,3.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,6.0,1,0
+Damon,28.0,Arena Football Player,Cardiff,California,West,2.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,2.0,1,0
+Eliot,25.0,Options Trader,Mountain View,California,West,2.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,5.0,1,0
+Harold Hersh,29.0,Professional Hockey Player,Rock Island,Illinois,Midwest,2.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,0,0
+Marcus,26.0,Personal Trainer,Los Angeles,California,West,2.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,4.0,1,0
+Robert,32.0,Alliance Development,El Segundo,California,West,2.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,2.0,1,0
+Aaron,32.0,Title and Escrow Sales,Sacramento,California,West,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,2.0,1,0
+Andy Chang,33.0,Dentist,Dallas,Texas,South,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,3.0,0,0
+Anselm Clinard,32.0,Art Designer,Venice,California,West,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,2.0,1,0
+Brian,31.0,Attorney,Quincy,Massachusetts,Northeast,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,0,0
+Chris,31.0,Accountant,Boston,Massachusetts,Northeast,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,0,0
+Cory Higgins,24.0,Small Business Owner,Long Beach Island,New Jersey,Northeast,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,6.0,0,0
+Jeff O'Quinn,30.0,Pharmaceutical Sales Rep,Macon,Georgia,South,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,0.0,0,0
+Justin,25.0,Professional Baseball Player,Orlando,Florida,South,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,5.0,0,0
+Keith,31.0,Financial Analyst,Baltimore,Maryland,South,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,1.0,0,0
+Trever,35.0,Restaurateur,North Wales,Pennsylvania,Northeast,1.0,Bachelorette 2,Meredith Phillips,30.0,Makeup artist,Beaverton,Oregon,West,5.0,0,0
+Jesse Csincsak,26.0,Professional snowboarder,Breckenridge,Colorado,West,,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,2.0,1,1
+Jason Mesnick,31.0,Account executive,Cleveland,Ohio,Midwest,8.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,3.0,0,0
+Jeremy Anderson,30.0,Real estate attorney,Dallas,Texas,South,7.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,2.0,0,0
+Graham Bunn,29.0,Professional basketball player,Raleigh,North Carolina,South,6.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,1.0,0,0
+Sean Ramey,33.0,Martial artist,Louisville,Kentucky,South,5.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,5.0,0,0
+Blaine Twilley,33.0,Debt manager,Tulsa,Oklahoma,South,5.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,5.0,0,0
+Brian Westendorf,31.0,High school football coach,Balch Springs,Texas,South,4.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,3.0,0,0
+"Frederick ""Fred"" Greif",30.0,Lawyer,Skokie,Illinois,Midwest,4.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,2.0,0,0
+Robert Fair,28.0,Chef,San Francisco,California,West,4.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,0.0,1,0
+Paul Brosseau,23.0,Sales manager,Bonnyville,Alberta,Other,3.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,5.0,0,0
+Ronald Mayer,36.0,Barber shop owner,Greeley,Colorado,West,3.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,8.0,1,0
+Richard Mathy,27.0,Science teacher,Sauquoit,New York,Northeast,3.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,1.0,0,0
+"Christopher ""Chris"" Bradshaw",29.0,Medical sales rep.,Fort Worth,Texas,South,2.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,1.0,0,0
+Eric Papachristos,32.0,Senior analyst,Boston,Massachusetts,Northeast,2.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,4.0,0,0
+Ryan Hoag,28.0,Professional football player,Minneapolis,Minnesota,Midwest,2.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,0.0,0,0
+Brian Winchester,29.0,Computer network consultant,New Castle,Indiana,Midwest,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,1.0,0,0
+Chandler Fulton,25.0,Insurance rep.,Virginia Beach,Virginia,South,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,3.0,0,0
+Donato Capodanno,26.0,Sales rep.,Lexington,South Carolina,South,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,2.0,0,0
+"Gregory ""Greg"" Matthew",28.0,Personal trainer,Rockport,Massachusetts,Northeast,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,0.0,0,0
+Jeffrey Harris,27.0,Mathematics teacher,Miami,Florida,South,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,1.0,0,0
+"Jonathan ""Jon"" Konkel",35.0,Resort manager,Williston,North Dakota,Midwest,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,7.0,0,0
+Luke Hamilton,27.0,Oyster farmer,Faith,North Carolina,South,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,1.0,0,0
+Patrick Carlson,26.0,Financial analyst,Glenwood,Illinois,Midwest,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,2.0,0,0
+Patrick Durrere,27.0,Internet marketing,Elmhurst,Illinois,Midwest,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,1.0,0,0
+Spero Stamboulis,38.0,Actor,Ellington,Connecticut,Northeast,1.0,Bachelorette 4,DeAnna Pappas,28.0,Real estate agent,Breckenridge,Colorado,West,10.0,0,0
+Ed Swiderski,29.0,Technology Consultant,Monroe,Michigan,Midwest,,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,0.0,0,1
+Kiptyn Locke,31.0,Business Developer,Encinitas,California,West,10.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Reid Rosenthal,30.0,Realtor,Upper Dublin,Pennsylvania,Northeast,9.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,1.0,0,0
+Wes Hayden,32.0,Musician,Huntsville,Texas,South,8.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,3.0,0,0
+Jesse Kovacs,27.0,Wine Maker,Carmel Valley,California,West,7.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Michael Stagliano,25.0,Break Dance Instructor,Tacoma,Washington,West,7.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,4.0,0,0
+Jake Pavelka,31.0,Commercial Pilot,Denton,Texas,South,6.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Tanner Pope,30.0,Financial Analyst,Brownfield,Texas,South,6.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,1.0,0,0
+Robby Descant,25.0,Bartender,Spring,Texas,South,6.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,4.0,0,0
+Mark Huebner,26.0,Pizza Entrepreneur,Woodstock,Illinois,Midwest,5.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,3.0,0,0
+David Good,27.0,Trucking Contractor,West Alexandria,Ohio,Midwest,4.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Juan Barbieri,35.0,General Contractor,Buenos Aires,Argentina,Other,4.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,6.0,1,0
+Mike Steinberg,28.0,Baseball Camp Owner,New York,New York,Northeast,4.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,1.0,0,0
+Brad Seberhagen,27.0,Financial Advisor,Park Ridge,Illinois,Midwest,3.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Tanner Fanello,28.0,Sales Representative,Derby,Kansas,Midwest,3.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,1.0,0,0
+Sasha Petrovic,27.0,Oil & Gas Consultant,Houston,Texas,South,3.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Brian Duke,32.0,IT Consultant,Birmingham,Alabama,South,2.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,3.0,0,0
+Julien Hug,34.0,Restaurateur,San Diego,California,West,2.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,5.0,0,0
+Mathue Johnson,25.0,Personal Trainer,Andover,Kansas,Midwest,2.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,4.0,0,0
+Simon Ambrose,26.0,Soccer Coach,Bradford,England,Other,2.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,3.0,1,0
+Adam Duvendeck,27.0,Olympic Cyclist,Santa Barbara,California,West,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Bryan Vaderman,28.0,High School Coach,Lawton,Oklahoma,South,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,1.0,0,0
+Bryce Harlow,31.0,Furniture Dealer,Fort Lauderdale,Florida,South,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Caleb Kuhl,27.0,Photographer,Kansas City,Missouri,Midwest,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+Greg Bilbro,31.0,Entrepreneur,Albuquerque,New Mexico,West,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+John Hardesty,27.0,Branding Consultant,Boise,Idaho,West,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,2.0,0,0
+John Presser,29.0,Marketing Specialist,Fort Wayne,Indiana,Midwest,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,0.0,0,0
+Josh Yocam,25.0,Lifeguard,Tustin,California,West,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,4.0,0,0
+Kyle Yauch,26.0,Graphic Designer,Austin,Texas,South,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,3.0,0,0
+Stephen Reich,30.0,Lawyer,Lexington,Massachusetts,Northeast,1.0,Bachelorette 5,Jillian Harris,29.0,Interior designer,Vancouver,British Columbia,Other,1.0,0,0
+Roberto Martinez,26.0,Insurance Agent,Tampa,Florida,South,,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,1.0,0,1
+Chris Lambton,33.0,Landscaper,Dennis,Massachusetts,Northeast,10.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,8.0,1,0
+Frank Neuschaefer,31.0,Retail Manager,Bartlett,Illinois,Midwest,9.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,6.0,0,0
+Kirk DeWindt,27.0,Sales Consultant,Green Bay,Wisconsin,Midwest,8.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,2.0,0,0
+Ty Brown,31.0,Medical Sales,Booneville,Mississippi,South,7.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,6.0,0,0
+Craig Robinson,27.0,Lawyer,Langhorne,Pennsylvania,Northeast,6.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,2.0,1,0
+Justin Rego,26.0,Entertainment Wrestler,Toronto,Ontario,Other,6.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,1.0,0,0
+Chris Nordhorn,29.0,Entrepreneur,Winter Park,Florida,South,5.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,4.0,0,0
+Kasey Kahl,27.0,Advertising Account Executive,Fresno,California,West,5.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,2.0,0,0
+Jesse Beck,24.0,General Contractor,Peculiar,Missouri,Midwest,4.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,1.0,0,0
+Jonathan Novack,30.0,Weatherman,Boston,Massachusetts,Northeast,4.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,5.0,1,0
+John Crivello,32.0,Hotel Business Development,Mukilteo,Washington,West,3.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,7.0,0,0
+Steve Kocsis,28.0,Sales Representative,Chesterland,Ohio,Midwest,3.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,3.0,0,0
+Hunter Wagner,28.0,Internet Account Executive,Fair Oaks Ranch,Texas,South,3.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,3.0,0,0
+Chris Hasek-Watt,27.0,Real Estate Developer,Campbell River,British Columbia,Other,2.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,2.0,0,0
+Craig McKinnon,34.0,Dental Sales,Sarnia,Ontario,Other,2.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,9.0,0,0
+Tyler Vermette,25.0,Online Advertising,Chelsea,Vermont,Northeast,2.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,0.0,1,0
+Derek,28.0,Sales Manager,Warren,Michigan,Midwest,1.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,3.0,0,0
+Derrick Schuster,27.0,Construction Engineer,Manhattan Beach,California,West,1.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,2.0,0,0
+Jason Whitehead,27.0,Construction Consultant,Johnson City,Tennessee,South,1.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,2.0,0,0
+Jay Resmini,29.0,Lawyer,Barrington,Rhode Island,Northeast,1.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,4.0,1,0
+John N.,27.0,Engineering Software Sales,Wichita,Kansas,Midwest,1.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,2.0,0,0
+Kyle Higgins,26.0,Outdoorsman,Highlands Ranch,Colorado,West,1.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,1.0,0,0
+Phil Kayden,30.0,Investment Manager,Elmore,Ohio,Midwest,1.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,5.0,0,0
+Tyler Morrow,25.0,Catering Manager,Helena,Montana,West,1.0,Bachelorette 6,Ali Fedotowsky,25.0,Advertising account manager,Williamstown,Massachusetts,Northeast,0.0,0,0
+J.P. Rosenbaum,34.0,Construction Manager,Roslyn,New York,Northeast,,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,8.0,1,1
+Ben Flajnik,28.0,Wine Maker,Sonoma,California,West,10.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,2.0,0,0
+Constantine Tzortzis,30.0,Restaurant Owner,Cumming,Georgia,South,9.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,4.0,0,0
+Ames Brown,31.0,Portfolio Manager,Chadds Ford,Pennsylvania,Northeast,8.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,5.0,1,0
+Lucas Daniels,30.0,Oilfield Equipment Distributor,Odessa,Texas,South,7.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,4.0,0,0
+Ryan Park,31.0,Solar Energy Executive,San Luis Obispo,California,West,7.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,5.0,0,0
+Blake Julian,27.0,Dentist,Steamboat Springs,Colorado,West,6.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,1.0,0,0
+"Ryan ""Mickey"" McLean",31.0,Chef,Rochester,New York,Northeast,6.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,5.0,1,0
+Nick Peterson,26.0,Personal Trainer,Odessa,Florida,South,5.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,0.0,0,0
+William Holman,30.0,Cellular Phone Salesman,Fostoria,Ohio,Midwest,5.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,4.0,0,0
+Ben Castoriano,28.0,Lawyer,Lake Charles,Louisiana,South,5.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,2.0,0,0
+West Lee,30.0,Lawyer,Walhalla,South Carolina,South,4.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,4.0,0,0
+Chris Drish,25.0,Sports Marketing Coordinator,Moline,Illinois,Midwest,3.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,1.0,0,0
+Jeff Medolla,35.0,Entrepreneur,St. Louis,Missouri,Midwest,3.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,9.0,0,0
+Bentley Williams,28.0,Businessman,Alpine,Utah,West,3.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,2.0,0,0
+Matt Colombo,28.0,Office Supply Salesman,Bridgewater,Massachusetts,Northeast,2.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,2.0,1,0
+Ryan Miller,27.0,Constructor Estimator,Novi,Michigan,Midwest,2.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,1.0,0,0
+Stephen D'Amico,27.0,Hairstylist,Portland,Connecticut,Northeast,2.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,1.0,1,0
+Anthony Santucci,28.0,Butcher,Saddle River,New Jersey,Northeast,1.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,2.0,1,0
+Chris Malhomme,27.0,Construction Company CEO,Gibbons,Alberta,Other,1.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,1.0,0,0
+Frank Carpenter,29.0,College Admissions Director,Anchorage,Alaska,West,1.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,3.0,0,0
+Jon Ellsworth,26.0,E-Commerce Executive,Vancouver,Washington,West,1.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,0.0,0,0
+Michael Burns,29.0,Technology Salesman,Providence,Rhode Island,Northeast,1.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,3.0,1,0
+Rob Dahm,27.0,Technology Executive,Monroe,Michigan,Midwest,1.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,1.0,0,0
+Tim McCormack,35.0,Liquor Distributor,Massapequa,New York,Northeast,1.0,Bachelorette 7,Ashley Hebert,26.0,Dental student,Madawaska,Maine,Northeast,9.0,1,0
+Jef Holm,27.0,Entrepreneur,St. George,Utah,West,,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,1.0,0,1
+"Arie Luyendyk, Jr.",30.0,Race Car Driver,Scottsdale,Arizona,West,10.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,4.0,0,0
+Sean Lowe,28.0,Insurance Agent,Irving,Texas,South,9.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,2.0,1,0
+Chris Bukowski,25.0,Corporate Sales Director,Chicago,Illinois,Midwest,8.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,1.0,0,0
+John Wolfner,30.0,Data Destruction Specialist,Creve Coeur,Missouri,Midwest,7.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,4.0,0,0
+Doug Clerget,33.0,Single Dad/Real Estate Agent,Tacoma,Washington,West,7.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,7.0,0,0
+Ryan Bowers,31.0,Pro Sports Trainer,Evans,Georgia,South,6.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,5.0,1,0
+Travis Pope,30.0,Advertising Sales Representative,Madison,Mississippi,South,6.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,4.0,1,0
+Alejandro Velez,25.0,Mushroom Farmer,San Francisco,California,West,5.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,1.0,0,0
+Kalon McMahon,27.0,Luxury Brand Consultant,Houston,Texas,South,5.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,1.0,1,0
+Charlie Grogan,32.0,Recruiter,Worcester,Massachusetts,Northeast,4.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,6.0,0,0
+Michael Nance,26.0,Rehab Counselor,Austin,Texas,South,4.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,0.0,1,0
+Nathan Baake,25.0,Accountant,Casa Grande,Arizona,West,4.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,1.0,0,0
+Stevie Alberino,26.0,Party M.C.,Monroe Township,New Jersey,Northeast,3.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,0.0,0,0
+Alessandro Goulart,30.0,Grain Merchant,Saint Paul,Minnesota,Midwest,3.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,4.0,0,0
+Tony Pieper,31.0,Single Dad/Lumber Trader,Beaverton,Oregon,West,3.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,5.0,0,0
+Aaron Martell,36.0,Biology Teacher,North Sydney,Nova Scotia,Other,2.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,10.0,0,0
+Kyle Dillon,29.0,Financial Adviser,Long Beach,California,West,2.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,3.0,0,0
+Joe Gendreau,27.0,Field Energy Adviser,Orlando,Florida,South,2.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,1.0,1,0
+Brent Richter,41.0,Technology Salesman,Midland,Texas,South,1.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,15.0,1,0
+David Homyk,33.0,Singer/Songwriter,Charlottesville,Virginia,South,1.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,7.0,1,0
+Jackson Longnecker,29.0,Fitness Model,Lockport,Illinois,Midwest,1.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,3.0,0,0
+Jean-Paul LaCount,35.0,Marine Biologist,Moraga,California,West,1.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,9.0,0,0
+Lerone Anu,29.0,Real Estate Consultant,Laguna Beach,California,West,1.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,3.0,0,0
+Randy Lee Woyak,30.0,Marketing Manager,Oak Creek,Wisconsin,Midwest,1.0,Bachelorette 8,Emily Maynard,26.0,Children's hospital event planner,Charlotte,North Carolina,South,4.0,0,0
+Chris Siegfried,27.0,Mortgage Broker,McMinnville,Oregon,West,,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,0.0,1,1
+Drew Kenney,27.0,Digital Marketing Analyst,Scottsdale,Arizona,West,10.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,0.0,1,0
+Brooks Forester,28.0,Sales & Marketing,Blackfoot,Idaho,West,9.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,1,0
+Zak Waddell,31.0,Drilling Fluid Engineer,Dallas,Texas,South,8.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,4.0,0,0
+Michael Garofola,33.0,Federal Prosecutor,Lindenhurst,New York,Northeast,7.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,6.0,0,0
+James Case,27.0,Advertising Executive,Marietta,Georgia,South,6.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,0.0,0,0
+Juan Pablo Galavis,31.0,Former Pro Soccer Player,Barquisimeto,Venezuela,Other,6.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,4.0,0,0
+Kasey Stewart,29.0,Advertising Executive,Tulsa,Oklahoma,South,6.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,2.0,0,0
+Mikey Tenerelli,30.0,Plumbing Contractor,Glen Ellyn,Illinois,Midwest,5.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,3.0,0,0
+Ben Scott,28.0,Entrepreneur,Lubbock,Texas,South,5.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,0,0
+Bryden Vukasin,26.0,Iraq War Veteran,Havre,Montana,West,5.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,1,0
+Zack Kalter,28.0,Book Publisher,Phillips Ranch,California,West,4.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,1,0
+Brad McKinzie,27.0,Accountant/DJ,Denver,Colorado,West,4.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,0.0,1,0
+Brandon Andreen,26.0,Painting Contractor,Blaine,Minnesota,Midwest,3.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,0,0
+Dan Cox,30.0,Beverage Sales Director,Dublin,California,West,3.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,3.0,1,0
+Brian Jarosinski,29.0,Financial Advisor,Olney,Maryland,South,3.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,2.0,0,0
+Nick Mucci,27.0,Investment Adviser,Rochester,New York,Northeast,2.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,0.0,0,0
+Robert Graham,30.0,Advertising Entrepreneur,Glendale,Arizona,West,2.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,3.0,1,0
+Will Reese,28.0,Banker,Federal Way,Washington,West,2.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,1,0
+Diogo Custodio,29.0,Ski Resort Manager,Penha,Brazil,Other,1.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,2.0,0,0
+Larry Burchett,34.0,ER Doctor,Overland Park,Kansas,Midwest,1.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,7.0,0,0
+Micah,32.0,Law Student,Detroit Lakes,Minnesota,Midwest,1.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,5.0,0,0
+Mike,28.0,Dental Student,London,England,Other,1.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,0,0
+Nick Roy,26.0,Tailor/Magician,Ridgefield,Connecticut,Northeast,1.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,0,0
+Jonathan Vollinger,26.0,Lawyer,Hickory,North Carolina,South,1.0,Bachelorette 9,Desiree Hartsock,27.0,Bridal stylist,Northglenn,Colorado,West,1.0,0,0
+Josh Murray,29.0,Former Professional Baseball Player,Athens,Georgia,South,,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,3.0,1,1
+Nick Viall,33.0,Software Sales Executive,Waukesha,Wisconsin,Midwest,10.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,7.0,0,0
+Chris Soules,32.0,Farmer,Lamont,Iowa,Midwest,9.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,6.0,0,0
+Marcus Grodd,25.0,Sports Medicine Manager,Medicine Hat,Alberta,Other,8.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,1.0,0,0
+Brian Osborne,27.0,Basketball Coach,Camp Hill,Pennsylvania,Northeast,7.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,1.0,0,0
+Dylan Petitt,26.0,Accountant,Longmeadow,Massachusetts,Northeast,7.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,0.0,0,0
+J.J. O'Brien,30.0,Pantsapreneur,Hanover,Massachusetts,Northeast,6.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,4.0,0,0
+Cody Sattler,28.0,Personal Trainer,Oakley,Kansas,Midwest,6.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,2.0,0,0
+Andrew Poole,30.0,Social Media Marketer,Portola Valley,California,West,5.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,4.0,0,0
+Marquel Martin,26.0,Sponsorship Salesman,Rialto,California,West,5.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,0.0,0,0
+Patrick Jagodzinski,29.0,Advertising Executive,Clinton,New Jersey,Northeast,5.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,3.0,0,0
+Tasos Hernandez,30.0,Wedding Event Coordinator,Denver,Colorado,West,4.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,4.0,0,0
+Eric Hill,31.0,Explorer,Citrus Heights,California,West,4.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,5.0,0,0
+Bradley Wisk,32.0,Opera Singer,Grosse Pointe,Michigan,Midwest,3.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,6.0,0,0
+Brett Melnick,29.0,Hairstylist,Warminster,Pennsylvania,Northeast,3.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,3.0,0,0
+Ron Worrell,28.0,Beverage Sales Manager,Nahariya,Israel,Other,3.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,2.0,0,0
+Carl King,30.0,Firefighter,Hollywood,California,West,2.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,4.0,0,0
+Craig Muhlbauer,29.0,Tax Accountant,Defiance,Iowa,Midwest,2.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,3.0,0,0
+Nick Sutter,27.0,Professional Golfer,Barrington,Illinois,Midwest,2.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,1.0,0,0
+Emil Schaffroth,33.0,Helicopter Pilot,Portland,Oregon,West,1.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,7.0,0,0
+Jason Leep,35.0,Urgent Care Physician,Sturgeon Bay,Wisconsin,Midwest,1.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,9.0,0,0
+Josh Bauer,29.0,Telecommunication Marketer,Evergreen,Colorado,West,1.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,3.0,0,0
+Mike Campanelli,29.0,Bartender,Guilderland,New York,Northeast,1.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,3.0,0,0
+Rudie Dane,31.0,Attorney,Yorba Linda,California,West,1.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,5.0,0,0
+Steven Woolworth,30.0,Snowboard Product Developer,Meadow Vista,California,West,1.0,Bachelorette 10,Andi Dorfman,26.0,Assistant District Attorney,Atlanta,Georgia,South,4.0,0,0
+Shawn Booth,28.0,Personal Trainer,Windsor Locks,Connecticut,Northeast,,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,1
+Nick Viall,34.0,Software Sales Executive,Waukesha,Wisconsin,Midwest,9.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,5.0,0,0
+Ben Higgins,26.0,Software Salesman,Warsaw,Indiana,Midwest,8.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,3.0,0,0
+Jared Haibon,26.0,Restaurant Manager,Warwick,Rhode Island,Northeast,7.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,3.0,0,0
+Joe Bailey,28.0,Insurance Agent,Glasgow,Kentucky,South,7.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+Chris Strandburg,28.0,Dentist,Granite Bay,California,West,7.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+Ben Zorn,26.0,Fitness Coach,Falls Church,Virginia,South,6.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,3.0,0,0
+Tanner Tolbert,28.0,Auto Finance Manager,Stilwell,Kansas,Midwest,6.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+J.J. Lane III,32.0,Former Investment Banker,Dacono,Colorado,West,6.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,3.0,0,0
+Joshua Albers,31.0,Industrial Welder,Kuna,Idaho,West,5.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,2.0,0,0
+Justin Reich,28.0,Fitness Trainer,Elgin,Illinois,Midwest,5.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+Ian Thomson,28.0,Executive Recruiter,Ramsey,New Jersey,Northeast,5.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+Corey Stansell (NY),30.0,Investment Banker,New York,New York,Northeast,4.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+Jonathan Holloway,33.0,Automotive Spokesman,Sylvan Lake,Michigan,Midwest,4.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,4.0,0,0
+Ryan Beckett,32.0,Realtor,Wellington,Florida,South,4.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,3.0,0,0
+Clint Arlis,27.0,Architectural Engineer,Batavia,Illinois,Midwest,3.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,2.0,0,0
+Tony Harris,35.0,Healer,St. Louis,Missouri,Midwest,3.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,6.0,0,0
+Cory Shivar (NC),35.0,Residential Developer,Seven Springs,North Carolina,South,2.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,6.0,0,0
+Daniel Finney,28.0,Fashion Designer,Nashville,Tennessee,South,2.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+Kupah James,32.0,Entrepreneur,Boston,Massachusetts,Northeast,2.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,3.0,0,0
+Bradley Cox,25.0,International Auto Shipper,Duluth,Georgia,South,1.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,4.0,0,0
+David,28.0,Real Estate Agent,Orlando,Florida,South,1.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+Josh Seiter,27.0,Law Student/Exotic Dancer,Chicago,Illinois,Midwest,1.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,2.0,0,0
+Shawn Evans,31.0,Amateur Sex Coach,London,Ontario,Other,1.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,2.0,1,0
+Brady Toops,33.0,Singer/Songwriter,Wauseon,Ohio,Midwest,1.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,4.0,0,0
+Ryan McDill,28.0,Junkyard Specialist,Kansas City,Missouri,Midwest,1.0,Bachelorette 11,Kaitlyn Bristowe,29.0,Dance Instructor,Vancouver,British Columbia,Other,1.0,0,0
+Jordan Rodgers,27.0,Former Pro Quarterback,Chico,California,West,,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,2.0,0,1
+Robby Hayes,27.0,Former Competitive Swimmer,St. Augustine,Florida,South,10.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,2.0,1,0
+Chase McNary,27.0,Medical Sales Rep,Castle Rock,Colorado,West,9.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,2.0,0,0
+Luke Pell,31.0,War Veteran,Burnet,Texas,South,8.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,6.0,1,0
+James Taylor,29.0,Singer-Songwriter,Katy,Texas,South,7.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,4.0,1,0
+Alex Woytkiw,25.0,U.S. Marine,Oceanside,California,West,7.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,0.0,0,0
+Derek Peth,29.0,Commercial Banker,Waverly,Iowa,Midwest,6.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,4.0,0,0
+Wells Adams,31.0,Radio DJ,Monterey,California,West,6.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,6.0,0,0
+Evan Bass,33.0,Erectile Dysfunction Specialist,Hartford,Connecticut,Northeast,5.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,8.0,0,0
+Grant Kemp,27.0,Firefighter,San Francisco,California,West,5.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,2.0,0,0
+"Vincent ""Vinny"" Ventiera",28.0,Barber,Kings Park,New York,Northeast,5.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,3.0,0,0
+Daniel Maguire,31.0,Male Model,Lions Bay,British Columbia,Other,4.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,6.0,0,0
+James Fuertes,34.0,Boxing Club Owner,Franklin,Tennessee,South,4.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,9.0,1,0
+Chad Johnson,28.0,Luxury Real Estate Agent,Jenks,Oklahoma,South,4.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,3.0,1,0
+Ali Zahiri,27.0,Bartender,Santa Monica,California,West,3.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,2.0,0,0
+Christian Bishop,26.0,Telecom Consultant,Los Angeles,California,West,3.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,1.0,0,0
+Nick Benvenutti,33.0,Electrical Engineer,Carthage,Illinois,Midwest,3.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,8.0,0,0
+Brandon Howell,28.0,Hipster,Marysville,Washington,West,2.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,3.0,0,0
+James Spadafore,27.0,Bachelor Superfan,Phoenix,Arizona,West,2.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,2.0,0,0
+Will Haduch,26.0,Civil Engineer,Jersey City,New Jersey,Northeast,2.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,1.0,0,0
+Coley Knust,27.0,Real Estate Consultant,Chicago,Illinois,Midwest,1.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,2.0,0,0
+Jake Patton,26.0,Landscape Architect,Playa Vista,California,West,1.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,1.0,0,0
+Jonathan Hamilton,29.0,Technical Sales Rep,Vancouver,British Columbia,Other,1.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,4.0,0,0
+Nick Sharp,26.0,Software Salesman,San Francisco,California,West,1.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,1.0,0,0
+Peter Medina,26.0,Staffing Agency Manager,Rockdale,Illinois,Midwest,1.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,1.0,0,0
+Sal DeJulio,28.0,Operations Manager,Hubbard,Ohio,Midwest,1.0,Bachelorette 12,"Joelle ""JoJo"" Fletcher",25.0,Real Estate Developer,Dallas,Texas,South,3.0,0,0
