@@ -28,10 +28,11 @@ For our logistic regression to predict the winner of a given season, we decided 
 
 **Data Preparation for Modeling** <br /> 
 Once we built our complete data set, we had to create some calculated columns to be used in our model. <br />
-These new variables included: <br />
--Age difference between contestant & lead <br />
--Dummy variables for whether contestant & lead hometowns are in same region <br />
--Dummy variable for whether or not a contestant was the winner of their season <br />
+These new variables included:
+
+* Age difference between contestant & lead   
+* Dummy variables for whether contestant & lead hometowns are in same region  
+* Dummy variable for whether or not a contestant was the winner of their season  
 
 We also plan to perform text mining on occupation variable to create groupings of jobs and some measure of similarity between contestant & lead occupations <br />
 
