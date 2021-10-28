@@ -1,4 +1,4 @@
-# KDD-Project
+# Final Rose Project
 **Team Members:** <br /> 
 1. Taylor Cox <br /> 
 2. Connor Derrick <br />
@@ -42,4 +42,4 @@ We also plan to perform text mining on occupation variable to create groupings o
 **Results** <br /> 
 
 **Future Work** <br /> 
-The next steps include combining both datasets to create one, larger dataset with all variables we will be using, filling in missing data, creating new variables (including the weighted point system for number of dates and the age difference between contestant & lead), and beginning exploratory data analysis to visualize our data and see what other predictions and applications we can do with this dataset.
+The next steps include finishing our data preparation for modeling by text mining our occupation data and then moving into the modeling stage of the CRISP-DM process. The primary analysis that we are planning to complete is a logistic regression to predict the likelihood of a given contestant being the winner with age difference between contestant & lead being our primary predictor of interest. If we have time though, we may also conduct a linear regression to predict the number of weeks each contestant will remain on the show before elimination.
