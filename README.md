@@ -22,7 +22,7 @@ FiveThirtyEight Data: https://github.com/fivethirtyeight/data/tree/master/bachel
 Kaggle Data: https://www.kaggle.com/brianbgonz/the-bachelorette-contestants?select=bachelors.csv <br />
 
 **Data Preprocessing** <br /> 
-For our logistic regression to predict the winner of a given season, we decided to primarily use the Kaggle data. Since this data was separated into 4 sets ('Bachelor' leads, 'Bachelorette' leads, 'Bachelor' contestants, & 'Bachelorette' contestants. We needed to do a good amount of data preprocessing to fill in missing values & get all the data sets into a consistent format to be able to be joined into one complete data frame. Due to the nature of this data, we were able to do our own research to identify correct values for missing data rather than using imputation methods that might undermine the validity of our model. <br />
+For our logistic regression to predict the winner of a given season, we decided to primarily use the Kaggle data. Since this data was separated into 4 sets ('Bachelor' leads, 'Bachelorette' leads, 'Bachelor' contestants, & 'Bachelorette' contestants. We needed to do a good amount of data preprocessing to fill in missing values & get all the data sets into a consistent format to be able to be joined into one complete data frame. Due to the nature of this data, we were able to do our own research to identify correct values for missing data rather than using imputation methods that might undermine the validity of our model. The steps taken in our data preprocessing are described & can be followed in the Final Rose Project.ipynb file. <br />
 
 **Data Understanding and Exploration** <br /> 
 
@@ -45,6 +45,8 @@ All datasets use the same explanatory variables to predict the likeliness of a c
 *Age Difference* - The absolute value of the difference between the lead's and individual contestant's ages <br />
 *Same Region* - Dummy variable to determine if the lead and the contestant are from the same region - 0 if different, 1 if same <br />
 *Target* - The predictor variable - 0 if eliminated, 1 if winner <br />
+
+We have also completed exploratory data analysis on both our inital data sources prior to transformation & our combined data set. Our EDA process & data visualizations can be seen in the Final Rose Project.ipynb file. <br />
 
 **Data Preparation for Modeling** <br /> 
 Once we built our complete data set, we had to create some calculated columns to be used in our model. <br />
