@@ -42,8 +42,8 @@ All datasets use the same explanatory variables to predict the likeliness of a c
 *Lead City* - Hometown city for the Bachelor/Bachelorette <br />
 *Lead State* - Hometown state for the Bachelor/Bachelorette <br />
 *Lead Region* - Lead's hometown region based on the US Census Bureau <br />
-*Age Difference* - The absolute value of the difference between the lead and individual contestants <br />
-*Same Region* - Dummy variable to determine if the lead and the contestant are from the same region <br />
+*Age Difference* - The absolute value of the difference between the lead's and individual contestant's ages <br />
+*Same Region* - Dummy variable to determine if the lead and the contestant are from the same region - 0 if different, 1 if same <br />
 *Target* - The predictor variable - 0 if eliminated, 1 if winner <br />
 
 **Data Preparation for Modeling** <br /> 
