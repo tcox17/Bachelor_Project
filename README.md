@@ -22,17 +22,18 @@ FiveThirtyEight Data: https://github.com/fivethirtyeight/data/tree/master/bachel
 Kaggle Data: https://www.kaggle.com/brianbgonz/the-bachelorette-contestants?select=bachelors.csv <br />
 
 **Data Preprocessing** <br /> 
-Create new variables including: <br />
--Age difference between contestant & lead <br />
--Region dummy variables based on hometown <br />
--Distance between contest & lead hometowns (if we can find a method to calculate this) <br />
--Weighted date participation based on number of dates & number of contestants on each date <br />
-
-Perform text mining on occupation variable to create groupings of similar jobs and transform this to dummy variables <br />
+For our logistic regression to predict the winner of a given season, we decided to primarily use the Kaggle data. Since this data was separated into 4 sets ('Bachelor' leads, 'Bachelorette' leads, 'Bachelor' contestants, & 'Bachelorette' contestants. We needed to do a good amount of data preprocessing to fill in missing values & get all the data sets into a consistent format to be able to be joined into one complete data frame. Due to the nature of this data, we were able to do our own research to identify correct values for missing data rather than using imputation methods that might undermine the validity of our model. <br />
 
 **Data Understanding and Exploration** <br /> 
 
 **Data Preparation for Modeling** <br /> 
+Once we built our complete data set, we had to create some calculated columns to be used in our model. <br />
+These new variables included: <br />
+-Age difference between contestant & lead <br />
+-Dummy variables for whether contestant & lead hometowns are in same region <br />
+-Dummy variable for whether or not a contestant was the winner of their season <br />
+
+We also plan to perform text mining on occupation variable to create groupings of jobs and some measure of similarity between contestant & lead occupations <br />
 
 **Modeling** <br /> 
 
