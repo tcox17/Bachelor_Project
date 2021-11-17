@@ -48,6 +48,16 @@ All datasets use the same explanatory variables to predict the likeliness of a c
 
 We have also completed exploratory data analysis on both our inital data sources prior to transformation & our combined data set. Our EDA process & data visualizations can be seen in the Final Rose Project.ipynb file. <br />
 
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/89612682/142284860-e8b2abe4-ab7e-40c0-ab43-3ae50769c661.png">
+
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/89612682/142284922-fc0329d6-cd49-4f13-b4a8-32889da2a829.png">
+
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/89612682/142284968-9b5ee5a5-6dc8-4af9-8b83-c14511f6d703.png">
+
+<img width="277" alt="image" src="https://user-images.githubusercontent.com/89612682/142285030-1aa04bfa-bd1c-4e50-93c3-a63cedd92371.png">
+
+<img width="332" alt="image" src="https://user-images.githubusercontent.com/89612682/142285139-82e874e6-92af-4406-b0f5-ea8612c9e4f0.png">
+
 **Data Preparation for Modeling** <br /> 
 Once we built our complete data set, we had to create some calculated columns to be used in our model. <br />
 These new variables included:
