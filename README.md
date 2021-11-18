@@ -48,9 +48,11 @@ All datasets use the same explanatory variables to predict the likeliness of a c
 
 We have also completed exploratory data analysis on both our inital data sources prior to transformation & our combined data set. Our EDA process & data visualizations can be seen in the Final Rose Project.ipynb file. <br />
 
-<img width="349" alt="image" src="https://user-images.githubusercontent.com/89612682/142284860-e8b2abe4-ab7e-40c0-ab43-3ae50769c661.png">
+The density curves below show the age distributions of contestants on The Bachelor (pink graph) and The Bachelorette (blue graph). The distribution of contestant ages on both shows appear to follow roughly the same curve with a right skew, but the Bachelorette contestant curve is centered approximately 3 years higher than the Bachelor contestant curve. <br />
 
 <img width="299" alt="image" src="https://user-images.githubusercontent.com/89612682/142284922-fc0329d6-cd49-4f13-b4a8-32889da2a829.png">
+
+The plot below shows the ages of each lead of The Bachelor (blue dots) and The Bachelorette (pink dots). The ages of the female Bachelorette leads are pretty closely clustered on the low end (ranging from about 25-30) while the ages of the male Bachelor leads are more spread out and reaching higher (26-38 years of age). Based on the differences that we observed in the ages of leads & contestants of both shows, we felt even more strongly about using the absolute value of age difference between contestant & lead in our model rather than the raw age values.
 
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/89612682/142284968-9b5ee5a5-6dc8-4af9-8b83-c14511f6d703.png">
 
