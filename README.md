@@ -62,6 +62,7 @@ The plot below shows the ages of each lead of The Bachelor (blue dots) and The B
 Since we plan to do text mining on the occupation attribute of our contestants, we created the word cloud shown below to get some preliminary insights into what common groupings & categories may exist within this data. A few possible categories that jump out from this word cloud include business, education, and sales. 
 
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/89612682/142285139-82e874e6-92af-4406-b0f5-ea8612c9e4f0.png">
+
 -----
 
 **Data Preparation for Modeling** <br /> 
