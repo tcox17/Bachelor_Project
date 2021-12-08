@@ -93,6 +93,13 @@ While working through the best parameters for our model, we tested its performan
 
 
 **Conclusion** <br /> 
+This project contained data concerning the popular television franchise “The Bachelor” and the contestants who star on this show. For our analysis, we decided to perform exploratory data analysis and logistic regression on this dataset and deploy the model to the most recent season of the Bachelorette. While many people have completed visualizations with similar data, no one has created predictive models and deployed on in-progress seasons of the show. 
+
+The dataset was relatively full of few missing values. We saw most missing values in information on the contestants which were found through outside research. Other values that were missing was the elimination week where the season winners did not have a week eliminated. Since we did not use the elimination week variable in our modeling, we kept these N/A values. Other cleaning that was performed included formatting on text columns and determining which show the dataset came from – the Bachelor or the Bachelorette. 
+
+This data was extremely imbalanced due to only having one winner each season and typically 15-20 who were sent home thus giving our dataset a 3.7% rate of positive values. In order to build a more effective model, we decided to rebalance our training data with a higher percentage of positive targets. To get our training data to a 30% positivity rate, we need to resample 265 observations of winners.
+
+We created new variables and terms based off the existing information to add a numerical account to text data. First, we added a same region variable which determined if the contestants and the leads came from the same US geographic area. We also included an age difference variable to factor age into our model as well as an age/sex interaction term.
 
 
 *Future Work* <br /> 
