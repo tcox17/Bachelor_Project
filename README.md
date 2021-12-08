@@ -81,7 +81,7 @@ These new variables included:
 We also plan to perform text mining on occupation variable to create groupings of jobs and some measure of similarity between contestant & lead occupations <br />
 
 **Modeling** <br /> 
-To predict the likeliness of a given contestant winning a season, we used a logistic regression algorithm trained with previous seasons, tested on season 17, and deployed on season 18, the most recent season. The independent variables used were age, age difference, same region, and an interaction term between age and gender. ![image](https://user-images.githubusercontent.com/89612584/145270493-ed1a51a3-dcae-43bd-a61e-ef11dab39db2.png)
+To predict the likeliness of a given contestant winning a season, we used a logistic regression algorithm trained with previous seasons, tested on season 17, and deployed on season 18, the most recent season. The independent variables used were age, age difference, same region, and an interaction term between age and gender. 
 
 **Evaluation** <br /> 
 
