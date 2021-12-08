@@ -85,7 +85,7 @@ These new variables included:
 * Interaction term between age & sex of contestant <br />
 
 **Modeling** <br /> 
-To predict the likeliness of a given contestant winning a season, we used a logistic regression algorithm trained with previous seasons, tested on season 17, and deployed on season 18, the most recent season. The independent variables used were age, age difference, same region, and an interaction term between age and gender. 
+To predict the likeliness of a given contestant winning a season, we used a logistic regression algorithm trained with previous seasons, tested on season 17, and deployed on season 18, the most recent season. The independent variables used were age, age difference, same region, and an interaction term between age and sex. 
 
 **Evaluation** <br /> 
 
