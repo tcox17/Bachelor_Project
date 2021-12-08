@@ -85,7 +85,7 @@ To predict the likeliness of a given contestant winning a season, we used a logi
 
 **Evaluation** <br /> 
 
-**Results** <br /> 
+**Conclusion** <br /> 
 
 **Future Work** <br /> 
 The next steps include finishing our data preparation for modeling by text mining our occupation data and then moving into the modeling stage of the CRISP-DM process. The primary analysis that we are planning to complete is a logistic regression to predict the likelihood of a given contestant being the winner with age difference between contestant & lead being our primary predictor of interest. If we have time though, we may also conduct a linear regression to predict the number of weeks each contestant will remain on the show before elimination.
