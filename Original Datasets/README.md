@@ -1,0 +1,1 @@
+The files 'bachelors.csv', 'bachelorettes.csv', 'bachelor-contestants.csv', & 'bachelorette-contestants.csv' are sourced from Five Thirty Eight and are the primary data files for our model. The 'bachelorette.csv' data file was pulled from Kaggle & contains data about date participation and eliminations for contestants and may be used for improved future predictive models.
