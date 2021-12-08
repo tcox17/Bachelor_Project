@@ -63,7 +63,7 @@ The plot below shows the ages of each lead of The Bachelor (blue dots) and The B
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/89612682/142284968-9b5ee5a5-6dc8-4af9-8b83-c14511f6d703.png">
 
 -----
-The below map displays the density of hometowns for all Bachelor contestants. We can see that a majority of contestants come from California and Texas. We will use location as a variable in relation to US regions and how distance may effect winners.
+The below map displays the density of hometowns for all Bachelor contestants. We can see that a majority of contestants come from California and Texas. 
 
 <img height = '250' alt = 'image' src='https://user-images.githubusercontent.com/89612584/145270681-97c5b986-7d5c-48ba-8a47-0a5c62196ac7.png'>
 
@@ -85,11 +85,17 @@ These new variables included:
 * Interaction term between age & sex of contestant <br />
 
 **Modeling** <br /> 
-To predict the likeliness of a given contestant winning a season, we used a logistic regression algorithm trained with previous seasons, tested on season 17, and deployed on season 18, the most recent season. The independent variables used were age, age difference, same region, and an interaction term between age and sex. 
+To predict the likeliness of a given contestant winning a season, we used a logistic regression algorithm trained with season 1,2,5 & 9-21 of The Bachelor & seasons 1-12 of The Bachelorette. Due to the nature of our target variable (predicting the lone winner out of approximately 30 contestants each season), we also needed to rebalance our training data in order to best prepare our model. We tested the process on multiple levels of rebalancing from 25% positive values up to a 50/50 split and ultimately decided on rebalancing the data to have 30% of our training data be positive target results. <br />
+
+While working through the best parameters for our model, we tested its performance on season 17 which is the most recent, fully completed season. The final set of independent variables used in our model included contestant age, age difference, same region, & an interaction term between age & sex. Finally, we deployed the model on season 18, which is actively airing. Though we do not know the official winner yet, it will be interesting to see how well our model applies to this season. 
 
 **Evaluation** <br /> 
 
 **Conclusion** <br /> 
 
-**Future Work** <br /> 
-The next steps include finishing our data preparation for modeling by text mining our occupation data and then moving into the modeling stage of the CRISP-DM process. The primary analysis that we are planning to complete is a logistic regression to predict the likelihood of a given contestant being the winner with age difference between contestant & lead being our primary predictor of interest. If we have time though, we may also conduct a linear regression to predict the number of weeks each contestant will remain on the show before elimination.
+*Future Work* <br /> 
+While we did not achieve great success in predicting the winner of the Bachelor or Bachelorette based entirely on information that is available prior to the start of the season, there are multiple opportunities for our project to be improved & expanded upon. Due to our limited experience with text analytics, we were not able to extract any usuable information out of the occupation attribute (which is typically available prior to the airing of the show). However, it would be an interesting project to write some sort of algorithm to categorize the occupation data and/or be able to analyze the level of similarity between the contestants' occupations & that of the lead. <br />
+
+Another approach would be to not put so much emphasis on predicting the winner from the very first week, but create an algorithm that could be updated each week with the probability of each remaining contestant being the winner. Possible attributes to include in this model include a measure of quality time spent with the lead based on the number of dates attended & the number of other contestants on each of those dates and some variable regarding the order in which the roses were handed out each week.
+
+One other variable that we did not include due to a lack of historical data and ethical concerns was race of the contestants & leads. This has been a hot topic within the Bachelor community recently due to a significant underrepresentation of minorities in both contestant & lead roles. However, the show has made efforts to be more inclusive and it will be interesting to see how this progresses in years to come. 
