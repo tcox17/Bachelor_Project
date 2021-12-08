@@ -61,7 +61,7 @@ The plot below shows the ages of each lead of The Bachelor (blue dots) and The B
 -----
 The below map displays the density of hometowns for all Bachelor contestants. We can see that a majority of contestants come from California and Texas. 
 
-<img width = '352' alt = 'image' src='https://user-images.githubusercontent.com/89612584/145270681-97c5b986-7d5c-48ba-8a47-0a5c62196ac7.png'>
+<img width = '400' alt = 'image' src='https://user-images.githubusercontent.com/89612584/145270681-97c5b986-7d5c-48ba-8a47-0a5c62196ac7.png'>
 
 -----
 Since we plan to do text mining on the occupation attribute of our contestants, we created the word cloud shown below to get some preliminary insights into what common groupings & categories may exist within this data. A few possible categories that jump out from this word cloud include business, education, and sales. 
