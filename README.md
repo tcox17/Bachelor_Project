@@ -63,7 +63,7 @@ The plot below shows the ages of each lead of The Bachelor (blue dots) and The B
 <img width="347" alt="image" src="https://user-images.githubusercontent.com/89612682/142284968-9b5ee5a5-6dc8-4af9-8b83-c14511f6d703.png">
 
 -----
-The below map displays the density of hometowns for all Bachelor contestants. We can see that a majority of contestants come from California and Texas. 
+The below map displays the density of hometowns for all Bachelor contestants. We can see that a majority of contestants come from California and Texas. We will use location as a variable in relation to US regions and how distance may effect winners.
 
 <img height = '250' alt = 'image' src='https://user-images.githubusercontent.com/89612584/145270681-97c5b986-7d5c-48ba-8a47-0a5c62196ac7.png'>
 
