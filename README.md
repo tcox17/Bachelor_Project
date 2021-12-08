@@ -91,7 +91,9 @@ While working through the best parameters for our model, we tested its performan
 
 **Evaluation** <br /> 
 
+
 **Conclusion** <br /> 
+
 
 *Future Work* <br /> 
 While we did not achieve great success in predicting the winner of the Bachelor or Bachelorette based entirely on information that is available prior to the start of the season, there are multiple opportunities for our project to be improved & expanded upon. Due to our limited experience with text analytics, we were not able to extract any usuable information out of the occupation attribute (which is typically available prior to the airing of the show). However, it would be an interesting project to write some sort of algorithm to categorize the occupation data and/or be able to analyze the level of similarity between the contestants' occupations & that of the lead. <br />
