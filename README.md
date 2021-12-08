@@ -98,4 +98,9 @@ While we did not achieve great success in predicting the winner of the Bachelor 
 
 Another approach would be to not put so much emphasis on predicting the winner from the very first week, but create an algorithm that could be updated each week with the probability of each remaining contestant being the winner. Possible attributes to include in this model include a measure of quality time spent with the lead based on the number of dates attended & the number of other contestants on each of those dates and some variable regarding the order in which the roses were handed out each week.
 
-One other variable that we did not include due to a lack of historical data and ethical concerns was race of the contestants & leads. This has been a hot topic within the Bachelor community recently due to a significant underrepresentation of minorities in both contestant & lead roles. However, the show has made efforts to be more inclusive and it will be interesting to see how this progresses in years to come. 
+One other variable that we did not include due to a lack of historical data and ethical concerns was race of the contestants & leads. This has been a hot topic within the Bachelor community recently due to a significant underrepresentation of minorities in both contestant & lead roles. However, the show has made efforts to be more inclusive and it will be interesting to see how this progresses in years to come. <br />
+
+*Instructions for Use:* <br />
+1. Download the 'bachelors.csv', 'bachelorettes.csv', 'bachelor-contestants.csv', & 'bachelorette-contestants.csv' files from the Original Datasets folder.
+2. Download 'Final Rose Project.ipynb' from the code folder. 
+3. Make sure all documents are in the same directory in order to successfully run the Python notebook.
