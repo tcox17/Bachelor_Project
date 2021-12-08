@@ -10,7 +10,8 @@ The Bachelor Franchise is one of the largest TV franchises across the globe with
 
 **Research Question(s)** <br /> 
 
-*Main Research Question:* What is the difference in probability of a given contestant being the final rose recipient of a season of The Bachelor or The Bachelorette considering age difference between the given contestant and the season's lead? Using logistic regression on past seasons' data, we will predict the most likely winners of the upcoming season of The Bachelorette, ranking each contestant by their probability of being the winner, and comparing weekly eliminations to our predictions. <br />
+*Main Research Question:* <br />
+What is the difference in probability of a given contestant being the final rose recipient of a season of The Bachelor or The Bachelorette considering age difference between the given contestant and the season's lead? Using logistic regression on past seasons' data, we will predict the most likely winners of the upcoming season of The Bachelorette, ranking each contestant by their probability of being the winner, and comparing weekly eliminations to our predictions. <br />
 
 *Questions to consider for future research:* <br />
 Can we predict the likelihood of a given contestant receiving the season’s final rose based on their amount of time spent with the lead calculated by a weighted point system based on the number of dates attended and the number of contestants on each date? <br />
@@ -31,6 +32,7 @@ All datasets use the same explanatory variables to predict the likeliness of a c
 
 *Name* - The name column refers to the Contestant Name <br />
 *Age* - Age refers to the age of the contestant <br />
+*Sex* - Dummy variable indicating sex - 0 if female, 1 if male (essentially a binary differentiatior between Bachelor & Bachelorette contestants) <br />
 *Occupation* - Occupation is what the individual contestant's report as their occupations when they join the show <br />
 *City* - Hometown city for contestants <br />
 *State* - Hometown state for contestants <br />
@@ -45,6 +47,7 @@ All datasets use the same explanatory variables to predict the likeliness of a c
 *Lead Region* - Lead's hometown region based on the US Census Bureau <br />
 *Age Difference* - The absolute value of the difference between the lead's and individual contestant's ages <br />
 *Same Region* - Dummy variable to determine if the lead and the contestant are from the same region - 0 if different, 1 if same <br />
+*Age Sex Interaction* - Product of Age & Sex variables <br />
 *Target* - The predictor variable - 0 if eliminated, 1 if winner <br />
 
 We have also completed exploratory data analysis on both our inital data sources prior to transformation & our combined data set. Our EDA process & data visualizations can be seen in the Final Rose Project.ipynb file. <br />
@@ -77,9 +80,9 @@ These new variables included:
 
 * Age difference between contestant & lead   
 * Dummy variables for whether contestant & lead hometowns are in same region  
-* Dummy variable for whether or not a contestant was the winner of their season  
-
-We also plan to perform text mining on occupation variable to create groupings of jobs and some measure of similarity between contestant & lead occupations <br />
+* Dummy variable for whether or not a contestant was the winner of their season 
+* Dummy variable for sex of contestant
+* Interaction term between age & sex of contestant <br />
 
 **Modeling** <br /> 
 To predict the likeliness of a given contestant winning a season, we used a logistic regression algorithm trained with previous seasons, tested on season 17, and deployed on season 18, the most recent season. The independent variables used were age, age difference, same region, and an interaction term between age and gender. 
