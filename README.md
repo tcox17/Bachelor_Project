@@ -9,7 +9,7 @@ The Bachelor Franchise is one of the largest TV franchises across the globe with
 **Research Question(s)** <br /> 
 
 *Main Research Question:* <br />
-What is the difference in probability of a given contestant being the final rose recipient of a season of The Bachelor or The Bachelorette considering age difference between the given contestant and the season's lead? Using logistic regression on past seasons' data, we will predict the most likely winners of the upcoming season of The Bachelorette, ranking each contestant by their probability of being the winner, and comparing weekly eliminations to our predictions. <br />
+What is the difference in probability of a given contestant being the final rose recipient of a season of The Bachelor or The Bachelorette considering age difference between the given contestant and the season's lead? Using logistic regression on past seasons' data, we will predict the most likely winners of the upcoming season of The Bachelorette, ranking each contestant by their probability of being the winner. <br />
 
 *Questions to consider for future research:* <br />
 Can we predict the likelihood of a given contestant receiving the season’s final rose based on their amount of time spent with the lead calculated by a weighted point system based on the number of dates attended and the number of contestants on each date? <br />
@@ -66,7 +66,7 @@ The below map displays the density of hometowns for all Bachelor contestants. We
 <img height = '250' alt = 'image' src='https://user-images.githubusercontent.com/89612584/145270681-97c5b986-7d5c-48ba-8a47-0a5c62196ac7.png'>
 
 -----
-Since we plan to do text mining on the occupation attribute of our contestants, we created the word cloud shown below to get some preliminary insights into what common groupings & categories may exist within this data. A few possible categories that jump out from this word cloud include business, education, and sales. 
+Although we were unable to perform text mining on the occupation attribute of our contestants, we thought it would be interesting to briefly explore the data. We created the word cloud shown below to get some preliminary insights into what common groupings & categories may exist within this data. A few possible categories that jump out from this word cloud include business, education, and sales. 
 
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/89612682/142285139-82e874e6-92af-4406-b0f5-ea8612c9e4f0.png">
 
