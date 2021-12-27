@@ -1,5 +1,6 @@
 # Final Rose Project
-**Team Members:** Taylor Cox & Connor Derrick <br /> 
+
+#### Team Members: Taylor Cox & Connor Derrick <br /> 
 
 **Team Name:** Team Final Rose <br />
 
